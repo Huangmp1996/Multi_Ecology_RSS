@@ -53,13 +53,14 @@ def save_json(filepath, data):
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 def analyze_article_with_llm(title, summary, journal_title=""):
-    """针对“生态、进化、保护与环境科学”进行深度筛选与翻译"""
+    """针对学术论文进行筛选、双语翻译与启发提炼（无摘要时自动留空）"""
     if not client:
         print("警告: 未检测到 LLM_API_KEY，跳过大模型筛选。")
         return None
 
     system_prompt = "你是一个专业科研助手，负责评估学术论文并严格按照指定的 JSON 格式返回数据。"
     
+    # 明确针对无摘要或摘要过短场景的指导指令
     user_prompt = f"""你是一名生态学、演化生物学、保护生物学与环境科学领域的专家。请分析以下发表在学术期刊《{journal_title}》上的论文信息：
 
 标题：{title}
@@ -67,7 +68,9 @@ def analyze_article_with_llm(title, summary, journal_title=""):
 
 请进行以下评估与处理：
 1. 确定性分类：判断该研究是否属于“生态学（Ecology）、演化生物学/进化（Evolution）、保护生物学（Conservation Biology）或环境科学（Environmental Science）”相关的直接研究或重要交叉研究？
-2. 中文翻译：将标题翻译为准确、专业的中文标题，并将英文摘要翻译为通顺专业的中文摘要。如果摘要信息较少，请依据现有信息精准总结。
+2. 中文翻译：
+   - 将英文标题翻译为准确、专业的中文标题。
+   - 【重要】若提供的英文摘要为空、字数极少或不包含实际科研内容，请将 "summary_zh" 直接返回空字符串 ""，绝不要硬翻译或凭空编造；若有有效英文摘要，将其翻译为通顺专业的中文摘要。
 3. 灵感与启发点：用 2-3 句话简要说明该研究的核心创新点及其对生态/进化/保护/环境科学领域的借鉴意义；若完全无关，填“无”。
 
 必须严格按照以下 JSON 格式输出，不要包含任何 markdown 标记或其他文本：
@@ -75,7 +78,7 @@ def analyze_article_with_llm(title, summary, journal_title=""):
   "is_relevant": true或false,
   "relevance_score": 1到5的整数,
   "title_zh": "中文标题",
-  "summary_zh": "中文摘要翻译",
+  "summary_zh": "中文摘要翻译（无摘要时务必填空字符串 \"\"）",
   "inspiration": "核心启发点与价值（中文）"
 }}
 """
@@ -96,15 +99,15 @@ def analyze_article_with_llm(title, summary, journal_title=""):
         print(f"调用 DeepSeek API 失败: {e}")
         return None
 
+
 def generate_group_rss_feed(group_key, group_info, articles):
-    """根据分组导出对应的 RSS 文件"""
+    """根据分组导出对应的 RSS 文件（动态隐藏空白区块）"""
     fg = FeedGenerator()
     fg.title(group_info['title'])
     fg.link(href='https://github.com/', rel='alternate')
     fg.description('基于 DeepSeek API 自动筛选的生态、进化、保护与环境科学顶级研究文献')
     fg.language('zh-CN')
 
-    # 筛选出属于当前分组的文章
     group_articles = [a for a in articles if a.get('group') == group_key]
 
     if not group_articles:
@@ -121,6 +124,7 @@ def generate_group_rss_feed(group_key, group_info, articles):
             fe.title(f"[{art['relevance_score']}分][{art.get('source_journal', '期刊')}] {art['title_zh']}")
             fe.link(href=art['link'])
             
+            # 1. 构建头部信息
             content_html = f"""
             <p><strong>来源期刊：</strong> {art.get('source_journal', '未知期刊')}</p>
             <p><a href="{art['link']}">查看论文原文网页</a></p>
@@ -130,15 +134,26 @@ def generate_group_rss_feed(group_key, group_info, articles):
             <h3>【中文标题】</h3>
             <p>{art['title_zh']}</p>
             <hr/>
-            <h3>【英文原文摘要】</h3>
-            <p>{art['summary_en']}</p>
-            <h3>【中文摘要翻译】</h3>
-            <p>{art.get('summary_zh') or '暂无中文摘要'}</p>
+            """
+            
+            # 2. 只有当英文原文摘要不为空时，才显示【英文原文摘要】区块
+            summary_en = art.get('summary_en', '').strip()
+            if summary_en:
+                content_html += f"<h3>【英文原文摘要】</h3><p>{summary_en}</p>"
+
+            # 3. 只有当中文摘要翻译不为空时，才显示【中文摘要翻译】区块；无摘要时自动跳过
+            summary_zh = art.get('summary_zh', '').strip()
+            if summary_zh:
+                content_html += f"<h3>【中文摘要翻译】</h3><p>{summary_zh}</p>"
+
+            # 4. 追加末尾的启发与借鉴价值区块
+            content_html += f"""
             <hr/>
             <h3>【生态/进化/环境借鉴价值与启发】</h3>
             <p><strong>相关度评分：</strong> {art['relevance_score']} / 5</p>
             <p>{art['inspiration']}</p>
             """
+            
             fe.description(content_html)
             fe.pubDate(datetime.now(timezone.utc))
 
