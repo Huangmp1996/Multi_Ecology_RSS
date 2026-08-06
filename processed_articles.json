@@ -1,5 +1,18 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-76418-2",
+    "group": "specialized",
+    "source_journal": "Nature Communications",
+    "title_en": "Dynamic magnetic capture-catalytic pyrolysis for aquatic micro- and nanoplastic management",
+    "title_zh": "动态磁捕获-催化热解用于水生微塑料和纳米塑料的管理",
+    "summary_zh": "本研究报道了一种动态磁捕获-催化热解策略，该策略能够去除水生微塑料和纳米塑料，并将捕获的塑料废物转化为化学品和有用的碳基催化剂。",
+    "link": "https://www.nature.com/articles/s41467-026-76418-2",
+    "summary_en": "Nature Communications, Published online: 06 August 2026; doi:10.1038/s41467-026-76418-2 This study reports a dynamic magnetic capture–catalytic pyrolysis strategy that removes aquatic micro- and nanoplastics and converts the captured plastic waste into chemicals and useful carbon-based catalysts.",
+    "relevance_score": 4,
+    "inspiration": "该研究创新性地将磁捕获与催化热解相结合，实现了对水生微塑料和纳米塑料的高效去除与资源化利用，为环境科学领域中的塑料污染治理提供了新思路。其将塑料废物转化为高附加值产品的策略，对推动循环经济和可持续发展具有重要借鉴意义，也为生态系统中塑料污染的源头控制与修复提供了技术参考。",
+    "published": ""
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-02429-0",
     "group": "mainstream",
     "source_journal": "Nature",
