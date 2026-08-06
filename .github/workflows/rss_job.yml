@@ -1,0 +1,50 @@
+name: Multidisciplinary Ecology & Environment RSS Fetcher
+
+on:
+  schedule:
+    # 每周一 UTC 00:00 (北京时间 08:00) 自动触发
+    - cron: '0 0 * * 1'
+  workflow_dispatch:
+
+jobs:
+  run-rss-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Fetch & RSS Generator Script
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: "https://api.deepseek.com"
+        run: python main.py
+
+      - name: Commit and Push Updated Feeds & Data
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # 创建防报错占位文件
+          touch history.json processed_articles.json feed_mainstream.xml feed_specialized.xml
+          
+          git add history.json processed_articles.json feed_mainstream.xml feed_specialized.xml
+          
+          if git status --porcelain | grep -E 'history.json|processed_articles.json|feed_mainstream.xml|feed_specialized.xml'; then
+            git commit -m "Update multidisciplinary RSS feeds [skip ci]"
+            git push
+          else
+            echo "No changes detected."
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
