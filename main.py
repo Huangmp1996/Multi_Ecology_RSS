@@ -53,25 +53,39 @@ def save_json(filepath, data):
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 def analyze_article_with_llm(title, summary, journal_title=""):
-    """针对学术论文进行筛选、双语翻译与启发提炼（无摘要时自动留空）"""
+    """针对学术论文进行宏观生态与行为学垂直筛选，排除微进化与基因组学生理性研究"""
     if not client:
         print("警告: 未检测到 LLM_API_KEY，跳过大模型筛选。")
         return None
 
-    system_prompt = "你是一个专业科研助手，负责评估学术论文并严格按照指定的 JSON 格式返回数据。"
+    system_prompt = (
+        "你是一个深耕宏观生态学、群落生态学、生物地理学、动物行为学与保护生物学的资深学者。"
+        "你的任务是筛选出关注中宏观生态学问题、表型适应或保护实践的论文，"
+        "坚决剔除微进化、染色体进化、核型分析及单纯基因组学层面的研究，并严格返回 JSON 格式。"
+    )
     
-    # 明确针对无摘要或摘要过短场景的指导指令
-    user_prompt = f"""你是一名生态学、演化生物学、保护生物学与环境科学领域的专家。请分析以下发表在学术期刊《{journal_title}》上的论文信息：
+    user_prompt = f"""请分析以下发表在学术期刊《{journal_title}》上的论文信息：
 
 标题：{title}
 摘要：{summary}
 
-请进行以下评估与处理：
-1. 确定性分类：判断该研究是否属于“生态学（Ecology）、演化生物学/进化（Evolution）、保护生物学（Conservation Biology）或环境科学（Environmental Science）”相关的直接研究或重要交叉研究？
-2. 中文翻译：
-   - 将英文标题翻译为准确、专业的中文标题。
-   - 【重要】若提供的英文摘要为空、字数极少或不包含实际科研内容，请将 "summary_zh" 直接返回空字符串 ""，绝不要硬翻译或凭空编造；若有有效英文摘要，将其翻译为通顺专业的中文摘要。
-3. 灵感与启发点：用 2-3 句话简要说明该研究的核心创新点及其对生态/进化/保护/环境科学领域的借鉴意义；若完全无关，填“无”。
+【筛选规则与领域边界】
+
+一、 【强制排除清单（直接判为无关，is_relevant 设为 false，评分为 1-2 分）】：
+1. 基因组组装与结构变异：凡是核心内容为特定物种的染色体级别基因组组装（Genome assembly）、全基因组加倍（WGD）、核型进化（Karyotype evolution）、染色体重排/拓扑混合、异源多倍体起源等研究，一律排除。
+2. 微进化与分子机制：基因位点关联（GWAS）、等位基因频率变异、转录组/单细胞测序、分子突变机制、DNA/RNA 生化通路等微观分子研究，一律排除。
+3. 纯生物物理/细胞生物学：生物反应器、微流控、细胞动力学、蛋白质结构等。
+
+二、 目标准入领域（仅当研究立足于个体、种群、群落、生态系统或生物地理等宏观/中观尺度）：
+1. 宏观生态与群落构建：物种共存机制、功能性状、系统发育多样性、食物网、深度/纬度/环境梯度多样性格局。
+2. 动物行为学与行为生态学：鸣声通讯/生物声学、群体决策、觅食与移动生态学、栖息地选择、表型适应。
+3. 生物地理与宏观演化：大尺度物种多样性格局、区系划分、古气候/历史遗留效应、宏观物种分化与灭绝速率。
+4. 全球变化与保护科学：气候变暖与人为干扰、生态系统弹性/转折点、保护优先区规划、监测技术（eDNA、水下视频、声学监测）。
+
+三、 处理要求：
+1. 确定性分类：严格依据上述规则判断，凡触及强制排除清单者一律判为 false。
+2. 中文翻译：将标题翻译为准确、专业的中文标题；若英文摘要存在且包含实际内容，翻译为通顺专业的中文摘要；若无有效摘要或摘要过短，"summary_zh" 务必填空字符串 ""。
+3. 灵感与启发点：若相关（is_relevant=true），用 2-3 句话指出该研究对宏观生态学/行为学/保护科学具体科学问题的明确价值；若判定为无关，填“无”。
 
 必须严格按照以下 JSON 格式输出，不要包含任何 markdown 标记或其他文本：
 {{
@@ -91,14 +105,13 @@ def analyze_article_with_llm(title, summary, journal_title=""):
                 {"role": "user", "content": user_prompt}
             ],
             response_format={"type": "json_object"},
-            temperature=0.2
+            temperature=0.1  # 降低温度，确保模型严格遵守排除逻辑
         )
         result_text = response.choices[0].message.content
         return json.loads(result_text)
     except Exception as e:
         print(f"调用 DeepSeek API 失败: {e}")
         return None
-
 
 def generate_group_rss_feed(group_key, group_info, articles):
     """根据分组导出对应的 RSS 文件（动态隐藏空白区块）"""
