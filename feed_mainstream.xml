@@ -1,243 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Top Journals - 生态/进化/保护/环境 灵感源</title><link>https://github.com/</link><description>基于 DeepSeek API 自动筛选的生态、进化、保护与环境科学顶级研究文献</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>zh-CN</language><lastBuildDate>Mon, 09 Nov 2026 05:14:02 +0000</lastBuildDate><item><title>[4分][AAAS: Science: Table of Contents] 对冲厄尔尼诺现象与适应厄尔尼诺现象并非一回事</title><link>https://www.science.org/doi/abs/10.1126/science.aem2972?af=R</link><description>
-            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
-            &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.aem2972?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
-            &lt;p&gt;Hedging El Niño isn’t the same as adapting to it&lt;/p&gt;
-            &lt;h3&gt;【中文标题】&lt;/h3&gt;
-            &lt;p&gt;对冲厄尔尼诺现象与适应厄尔尼诺现象并非一回事&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;&lt;p&gt;Science, Volume 393, Issue 6818, Page 1277-1277, September 2026.&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
-            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
-            &lt;p&gt;该研究从全球变化与保护科学视角，辨析了应对厄尔尼诺气候风险的“对冲”策略与“适应”策略的本质差异，对理解气候极端事件下生态系统的弹性、人类与生态系统的适应性响应及保护政策设计具有明确的宏观生态学与保护实践价值。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aem2972?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 澳大利亚巨型乌贼壮观的交配聚集被有毒藻类摧毁</title><link>https://www.science.org/doi/abs/10.1126/science.aem6546?af=R</link><description>
-            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
-            &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.aem6546?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
-            &lt;p&gt;Giant cuttlefish’s stunning mating aggregation decimated by toxic algae off Australia&lt;/p&gt;
-            &lt;h3&gt;【中文标题】&lt;/h3&gt;
-            &lt;p&gt;澳大利亚巨型乌贼壮观的交配聚集被有毒藻类摧毁&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;&lt;p&gt;Science, Volume 393, Issue 6818, Page 1289-1290, September 2026.&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
-            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
-            &lt;p&gt;该报道揭示了有害藻华对头足类繁殖聚集行为的急性生态冲击，属于全球变化与保护科学中人为干扰对海洋生物行为与种群动态影响的典型案例。其价值在于提示极端环境事件如何通过破坏关键生活史阶段（交配聚集）威胁物种延续，为海洋保护优先区规划和生态监测提供行为生态学依据。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aem6546?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 单次野火烟雾暴露造成持久伤害，猴子自然实验提供线索</title><link>https://www.science.org/doi/abs/10.1126/science.aem6545?af=R</link><description>
-            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
-            &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.aem6545?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
-            &lt;p&gt;Single wildfire smoke exposure causes lasting harm, natural experiment in monkeys hints&lt;/p&gt;
-            &lt;h3&gt;【中文标题】&lt;/h3&gt;
-            &lt;p&gt;单次野火烟雾暴露造成持久伤害，猴子自然实验提供线索&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;&lt;p&gt;Science, Volume 393, Issue 6818, Page 1288-1288, September 2026.&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
-            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
-            &lt;p&gt;该研究利用野火烟雾暴露的自然实验，在灵长类中揭示单次极端事件对个体健康的长期影响，为理解全球变化下野生动物种群面临的烟雾胁迫提供了直接证据。其价值在于将野火这一全球变化因子与动物表型适应和健康后果联系起来，提示保护管理需关注极端气候事件对种群存续的滞后效应。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aem6545?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 卫星揭示河流改变的世界</title><link>https://www.science.org/doi/abs/10.1126/science.aem6543?af=R</link><description>
-            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
-            &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.aem6543?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
-            &lt;p&gt;Satellite reveals a world of altered rivers&lt;/p&gt;
-            &lt;h3&gt;【中文标题】&lt;/h3&gt;
-            &lt;p&gt;卫星揭示河流改变的世界&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;&lt;p&gt;Science, Volume 393, Issue 6818, Page 1284-1285, September 2026.&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
-            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
-            &lt;p&gt;该研究利用卫星遥感技术在全球或大尺度上监测河流系统的改变，属于全球变化与保护科学中的监测技术应用。其价值在于为宏观生态学提供了评估人类活动对河流生态系统影响的空间显式数据，有助于识别河流连通性、水文情势变化等生态问题，并支持保护优先区规划与生态系统弹性评估。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aem6543?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 石油污染威胁霍尔木兹海峡</title><link>https://www.science.org/doi/abs/10.1126/science.ael4900?af=R</link><description>
-            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
-            &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.ael4900?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
-            &lt;p&gt;Oil pollution threatens the Strait of Hormuz&lt;/p&gt;
-            &lt;h3&gt;【中文标题】&lt;/h3&gt;
-            &lt;p&gt;石油污染威胁霍尔木兹海峡&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;&lt;p&gt;Science, Volume 393, Issue 6818, Page 1306-1306, September 2026.&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
-            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
-            &lt;p&gt;该研究聚焦石油污染对霍尔木兹海峡生态系统的威胁，属于全球变化与保护科学领域，对理解人为干扰下海洋生态系统的响应及保护优先区规划具有明确价值。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.ael4900?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 塔克拉玛干工程的生态风险</title><link>https://www.science.org/doi/abs/10.1126/science.ael3607?af=R</link><description>
-            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
-            &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.ael3607?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
-            &lt;p&gt;Ecological risks of the Taklamakan project&lt;/p&gt;
-            &lt;h3&gt;【中文标题】&lt;/h3&gt;
-            &lt;p&gt;塔克拉玛干工程的生态风险&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;&lt;p&gt;Science, Volume 393, Issue 6818, Page 1306-1307, September 2026.&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
-            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
-            &lt;p&gt;该文关注大型工程对干旱区生态系统的潜在风险，属于全球变化与保护科学范畴，可为生态脆弱区的人为干扰评估、生态弹性与保护优先区规划提供宏观生态学视角。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.ael3607?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[5分][AAAS: Science: Table of Contents] 8年社会学习与个体学习如何交互塑造猩猩的生态胜任力</title><link>https://www.science.org/doi/abs/10.1126/science.adz6415?af=R</link><description>
-            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
-            &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.adz6415?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
-            &lt;p&gt;How 8 years of social and individual learning interact to shape ecological competence in orangutans&lt;/p&gt;
-            &lt;h3&gt;【中文标题】&lt;/h3&gt;
-            &lt;p&gt;8年社会学习与个体学习如何交互塑造猩猩的生态胜任力&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;&lt;p&gt;Science, Volume 393, Issue 6818, Page 1369-1374, September 2026.&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
-            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
-            &lt;p&gt;该研究以猩猩为对象，探讨社会学习与个体学习在长达8年时间尺度上的交互作用如何影响其生态胜任力（如觅食、栖息地利用等行为技能），直接关联动物行为学与行为生态学中的文化传播、表型适应及认知生态学核心问题。其纵向研究设计为理解长寿命、高智能物种在自然环境中如何通过社会信息传递与独立探索相结合来适应复杂生态位提供了关键实证，对保护生物学中再引入个体的行为技能培养与栖息地适应管理具有明确指导价值。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.adz6415?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 古代基因渐渗驱动了野猪扩张与家猪表型多样化</title><link>https://www.science.org/doi/abs/10.1126/science.adq7553?af=R</link><description>
-            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
-            &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.adq7553?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
-            &lt;p&gt;Ancient introgression drives wild boar expansion and phenotypic diversification of domestic pigs&lt;/p&gt;
-            &lt;h3&gt;【中文标题】&lt;/h3&gt;
-            &lt;p&gt;古代基因渐渗驱动了野猪扩张与家猪表型多样化&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;&lt;p&gt;Science, Volume 393, Issue 6818, Page 1335-1341, September 2026.&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
-            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
-            &lt;p&gt;该研究揭示了古代基因渐渗事件如何推动野猪种群的地理扩张以及家猪表型多样性的形成，为理解宏观尺度上物种分布格局变迁与表型适应演化提供了重要案例。其价值在于将遗传混合历史与种群扩张、形态分化等宏观生态与演化过程相联系，有助于探讨历史气候波动和人类活动背景下野生动物的生物地理响应及家养动物的表型适应机制。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.adq7553?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 神经证据表明狗以类似人类的辅音偏好切分所听到的语音</title><link>https://www.science.org/doi/abs/10.1126/science.adw7709?af=R</link><description>
-            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
-            &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.adw7709?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
-            &lt;p&gt;Neural evidence that dogs segment the speech they hear with a humanlike consonant bias&lt;/p&gt;
-            &lt;h3&gt;【中文标题】&lt;/h3&gt;
-            &lt;p&gt;神经证据表明狗以类似人类的辅音偏好切分所听到的语音&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;&lt;p&gt;Science, Volume 393, Issue 6818, Page 1354-1358, September 2026.&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
-            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
-            &lt;p&gt;该研究从比较认知与神经行为学角度揭示了狗对语音信号的切分策略，为动物声学通讯与语音感知的跨物种比较提供了新证据。其方法可启发宏观生态学中生物声学监测与声景分析，以及家养动物行为适应与保护实践中的声学干扰评估。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.adw7709?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][Nature] 风中的尘埃正在减少</title><link>https://www.nature.com/articles/d41586-026-02979-3</link><description>
-            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
-            &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-02979-3"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
-            &lt;p&gt;Dust in the wind is on the decline&lt;/p&gt;
-            &lt;h3&gt;【中文标题】&lt;/h3&gt;
-            &lt;p&gt;风中的尘埃正在减少&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;&lt;p&gt;Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02979-3 The global decrease in atmospheric dust might be affecting Earth’s temperature.&lt;/p&gt;&lt;h3&gt;【中文摘要翻译】&lt;/h3&gt;&lt;p&gt;《自然》在线发表，2026年9月22日；doi:10.1038/d41586-026-02979-3 全球大气尘埃的减少可能正在影响地球的温度。&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
-            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
-            &lt;p&gt;该研究揭示了大气尘埃这一全球尺度环境因子的长期下降趋势及其对地球温度的可能影响，直接关联全球变化与气候系统反馈。对宏观生态学而言，它提示了跨区域物质输运（如沙尘携带的营养物质）变化可能影响陆地与海洋生态系统的养分输入和初级生产力，进而波及群落结构与生物地理格局。同时，该发现对理解气候变化背景下生态系统的响应与保护策略具有重要参考价值。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-02979-3</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][Nature] 亟需建立全球气候风险情报安全网</title><link>https://www.nature.com/articles/d41586-026-02995-3</link><description>
-            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
-            &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-02995-3"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
-            &lt;p&gt;A global safety net for climate-risk intelligence is urgently needed&lt;/p&gt;
-            &lt;h3&gt;【中文标题】&lt;/h3&gt;
-            &lt;p&gt;亟需建立全球气候风险情报安全网&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;&lt;p&gt;Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02995-3 A global safety net for climate-risk intelligence is urgently needed&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
-            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
-            &lt;p&gt;该文呼吁建立全球气候风险情报安全网，属于全球变化与保护科学领域，对宏观生态学中气候变暖与人为干扰的监测、生态系统弹性评估及保护优先区规划具有明确的政策与科学价值。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-02995-3</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[5分][Nature] 为什么昆虫需要自己的保护区</title><link>https://www.nature.com/articles/d41586-026-02997-1</link><description>
-            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
-            &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-02997-1"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
-            &lt;p&gt;Why insects need their own protected areas&lt;/p&gt;
-            &lt;h3&gt;【中文标题】&lt;/h3&gt;
-            &lt;p&gt;为什么昆虫需要自己的保护区&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;&lt;p&gt;Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02997-1 Why insects need their own protected areas&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
-            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
-            &lt;p&gt;该文呼吁为昆虫设立专门的保护区，直接指向保护科学中的保护优先区规划与栖息地管理实践，对全球昆虫多样性下降背景下的保护政策制定具有明确价值。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-02997-1</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][Nature] 针叶树在远离原生地的半个世界之外也能繁荣生长</title><link>https://www.nature.com/articles/d41586-026-02771-3</link><description>
-            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
-            &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-02771-3"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
-            &lt;p&gt;Conifer trees can prosper half a world away from their usual home&lt;/p&gt;
-            &lt;h3&gt;【中文标题】&lt;/h3&gt;
-            &lt;p&gt;针叶树在远离原生地的半个世界之外也能繁荣生长&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;&lt;p&gt;Nature, Published online: 23 September 2026; doi:10.1038/d41586-026-02771-3 Northern Hemisphere trees planted in the Southern Hemisphere can thrive, displaying increased stem growth and physiological signals linked to reduced stress.&lt;/p&gt;&lt;h3&gt;【中文摘要翻译】&lt;/h3&gt;&lt;p&gt;《自然》在线发表，2026年9月23日；doi:10.1038/d41586-026-02771-3 北半球树木种植到南半球后能够茁壮生长，表现出茎干生长增加以及与胁迫降低相关的生理信号。&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
-            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
-            &lt;p&gt;该研究揭示了针叶树跨半球引种后的表型可塑性与生长响应，为理解物种在新生境中的适应潜力提供了宏观生态学证据。其发现对预测气候变化背景下森林树种的迁移与引种实践具有直接保护与林业管理价值。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-02771-3</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[5分][Nature] 一种广泛采用的农业实践出人意料地成为二氧化碳汇</title><link>https://www.nature.com/articles/d41586-026-02646-7</link><description>
-            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
-            &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-02646-7"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
-            &lt;p&gt;A widespread agricultural practice is an unexpected CO&lt;sub&gt;2&lt;/sub&gt; sink&lt;/p&gt;
-            &lt;h3&gt;【中文标题】&lt;/h3&gt;
-            &lt;p&gt;一种广泛采用的农业实践出人意料地成为二氧化碳汇&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;&lt;p&gt;Nature, Published online: 23 September 2026; doi:10.1038/d41586-026-02646-7 ‘Liming’ to reduce soil acidity has long been considered a carbon dioxide source, but in North America’s largest river basin, it has resulted in net capture of atmospheric carbon.&lt;/p&gt;&lt;h3&gt;【中文摘要翻译】&lt;/h3&gt;&lt;p&gt;《自然》，在线发表：2026年9月23日；doi:10.1038/d41586-026-02646-7。长期以来，用于降低土壤酸度的“施用石灰”一直被视为二氧化碳的来源，但在北美最大的河流流域，这一做法却导致了大气碳的净捕获。&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
-            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
-            &lt;p&gt;该研究揭示了农业管理措施（施用石灰）在流域尺度上对碳循环的意外调控作用，为全球变化背景下陆地生态系统碳汇评估提供了新视角。其价值在于将人类活动干扰与宏观生态系统的碳收支联系起来，提示保护与农业实践可能通过改变土壤地球化学过程影响区域乃至全球气候，对生态系统的弹性与可持续管理具有重要启示。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-02646-7</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][Nature] 神经元对社会动作的检测引导集体逃逸行为</title><link>https://www.nature.com/articles/s41586-026-11041-1</link><description>
-            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
-            &lt;p&gt;&lt;a href="https://www.nature.com/articles/s41586-026-11041-1"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
-            &lt;p&gt;Neuronal detection of social actions directs collective escape behaviour&lt;/p&gt;
-            &lt;h3&gt;【中文标题】&lt;/h3&gt;
-            &lt;p&gt;神经元对社会动作的检测引导集体逃逸行为&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;&lt;p&gt;Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11041-1 Collective escape in Danionella cerebrum arises from visual detection of rapid, biologically realistic motion of other fish, with midbrain and thalamic neurons encoding social offsets that enable fish to infer danger from others’ behaviour.&lt;/p&gt;&lt;h3&gt;【中文摘要翻译】&lt;/h3&gt;&lt;p&gt;《自然》在线发表，2026年9月23日；doi:10.1038/s41586-026-11041-1。Danionella cerebrum的集体逃逸行为源于对其他鱼快速、生物学真实运动的视觉检测，中脑和丘脑神经元编码社会性偏移，使鱼能够从他人的行为中推断危险。&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
-            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
-            &lt;p&gt;该研究揭示了群体决策中社会信息传递的神经机制，为理解动物集体行为如何通过个体间互动产生适应性逃逸反应提供了新视角，对行为生态学中群体决策与反捕食策略研究具有重要价值。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/s41586-026-11041-1</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][Nature] 农业石灰施用是密西西比河流域的碳汇</title><link>https://www.nature.com/articles/s41586-026-11040-2</link><description>
-            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
-            &lt;p&gt;&lt;a href="https://www.nature.com/articles/s41586-026-11040-2"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
-            &lt;p&gt;Agricultural liming is a carbon sink in the Mississippi River Basin&lt;/p&gt;
-            &lt;h3&gt;【中文标题】&lt;/h3&gt;
-            &lt;p&gt;农业石灰施用是密西西比河流域的碳汇&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;&lt;p&gt;Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11040-2 Century-scale records of agricultural liming and anthropogenic acidity inputs for the Mississippi River Basin show that agricultural liming has acted as a net carbon sink over the past century.&lt;/p&gt;&lt;h3&gt;【中文摘要翻译】&lt;/h3&gt;&lt;p&gt;《自然》在线发表，2026年9月23日；doi:10.1038/s41586-026-11040-2。密西西比河流域农业石灰施用与人为酸输入的百年尺度记录表明，过去一个世纪农业石灰施用起到了净碳汇的作用。&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
-            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
-            &lt;p&gt;该研究从流域尺度量化了农业石灰施用对碳循环的长期影响，为全球变化背景下陆地生态系统碳汇管理提供了宏观生态学证据。其百年尺度记录方法可启发对人为干预下生态系统碳收支的评估，并支持保护与农业管理政策的碳汇优化。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/s41586-026-11040-2</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][Nature] 参考基因组与化石修订蝙蝠科的系统发育与生物地理学</title><link>https://www.nature.com/articles/s41586-026-11007-3</link><description>
-            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
-            &lt;p&gt;&lt;a href="https://www.nature.com/articles/s41586-026-11007-3"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
-            &lt;p&gt;Reference genomes and fossils revise bat family phylogeny and biogeography&lt;/p&gt;
-            &lt;h3&gt;【中文标题】&lt;/h3&gt;
-            &lt;p&gt;参考基因组与化石修订蝙蝠科的系统发育与生物地理学&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;&lt;p&gt;Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11007-3 An updated phylogeny of bats is presented, based on new genome assemblies and many ancient fossils and including all known bat families.&lt;/p&gt;&lt;h3&gt;【中文摘要翻译】&lt;/h3&gt;&lt;p&gt;《自然》在线发表，2026年9月23日；doi:10.1038/s41586-026-11007-3 基于新的基因组组装和大量古老化石，提出了一个更新的蝙蝠系统发育树，涵盖了所有已知的蝙蝠科。&lt;/p&gt;
-            &lt;hr/&gt;
-            &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
-            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
-            &lt;p&gt;该研究整合基因组与化石证据重建蝙蝠科级系统发育与生物地理历史，为理解宏观演化格局、物种多样化速率及历史生物地理过程提供了关键框架，对宏观生态学中系统发育群落构建和保护规划具有明确参考价值。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/s41586-026-11007-3</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[5分][Nature] 新发传染病的人为指纹</title><link>https://www.nature.com/articles/s41586-026-11058-6</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Top Journals - 生态/进化/保护/环境 灵感源</title><link>https://github.com/</link><description>基于 DeepSeek API 自动筛选的生态、进化、保护与环境科学顶级研究文献</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>zh-CN</language><lastBuildDate>Mon, 16 Nov 2026 05:25:01 +0000</lastBuildDate><item><title>[5分][Nature] 新发传染病的人为指纹</title><link>https://www.nature.com/articles/s41586-026-11058-6</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/s41586-026-11058-6"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -251,7 +13,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究从宏观生态学与保护科学视角揭示了人类活动、土地利用破碎化与传染病暴发风险的空间耦合关系，为理解全球变化背景下的人兽共患病溢出机制提供了大尺度格局证据。其发现可指导保护优先区规划与景观管理，以降低人-家畜-野生动物交界面的公共卫生风险。同时，研究强调医疗可及性不平等对疫情监测数据的偏倚，对改进全球生物安全监测网络具有重要政策价值。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/s41586-026-11058-6</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][Nature] 熊蜂不介意蜂巢里有点塑料</title><link>https://www.nature.com/articles/d41586-026-02988-2</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/s41586-026-11058-6</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][Nature] 熊蜂不介意蜂巢里有点塑料</title><link>https://www.nature.com/articles/d41586-026-02988-2</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-02988-2"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -265,7 +27,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究揭示了熊蜂对新型人造材料（塑料）的行为适应与巢穴构建可塑性，属于动物行为学与行为生态学范畴的表型适应研究。其价值在于为理解城市/人为干扰环境中昆虫的适应性行为、栖息地选择及保护实践提供了新视角，并提示保护生物学需关注人造材料对传粉昆虫生态的潜在影响。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-02988-2</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 项目将实时追踪亚马逊生物多样性</title><link>https://www.science.org/doi/abs/10.1126/science.aem8461?af=R</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-02988-2</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 项目将实时追踪亚马逊生物多样性</title><link>https://www.science.org/doi/abs/10.1126/science.aem8461?af=R</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.aem8461?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -279,7 +41,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该报道聚焦于亚马逊生物多样性的实时监测技术，属于全球变化与保护科学中的监测技术范畴，对宏观生态学中的生物多样性动态评估和保护实践具有直接价值。其强调的实时追踪能力有助于理解群落和生态系统尺度的响应，并为保护优先区规划提供数据支撑。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aem8461?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[5分][AAAS: Science: Table of Contents] 关于研究论文《中国太阳能扩张政策降低鸟类多样性》的编辑说明</title><link>https://www.science.org/doi/abs/10.1126/science.aem4102?af=R</link><description>
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aem8461?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[5分][AAAS: Science: Table of Contents] 关于研究论文《中国太阳能扩张政策降低鸟类多样性》的编辑说明</title><link>https://www.science.org/doi/abs/10.1126/science.aem4102?af=R</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.aem4102?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -293,7 +55,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该编辑说明针对的研究论文直接探讨了可再生能源政策（太阳能扩张）对鸟类多样性的影响，属于全球变化与保护科学的核心议题，对理解能源转型中的生态代价、保护优先区规划及政策评估具有明确价值。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aem4102?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 《瓦尔登湖》与保护科学的荒野根源</title><link>https://www.science.org/doi/abs/10.1126/science.aej3535?af=R</link><description>
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aem4102?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 《瓦尔登湖》与保护科学的荒野根源</title><link>https://www.science.org/doi/abs/10.1126/science.aej3535?af=R</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.aej3535?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -307,7 +69,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该文从思想史角度追溯保护科学的荒野根源，有助于理解保护科学的价值基础与伦理脉络，对保护实践和宏观生态学的学科定位具有反思与启发意义。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aej3535?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][Nature] 变暖星球上劳动力损失的代价</title><link>https://www.nature.com/articles/d41586-026-02971-x</link><description>
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aej3535?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][Nature] 变暖星球上劳动力损失的代价</title><link>https://www.nature.com/articles/d41586-026-02971-x</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-02971-x"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -321,7 +83,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究将气候变暖的生态后果直接转化为全球经济成本，为全球变化与保护科学提供了跨学科评估框架。其方法可启发宏观生态学中热应激对物种分布、行为节律及生态系统服务的影响评估，并推动将生态阈值与社会经济代价耦合建模。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-02971-x</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[5分][Nature] 巴黎协定后的排放使欧洲热浪更加严重</title><link>https://www.nature.com/articles/d41586-026-03035-w</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-02971-x</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[5分][Nature] 巴黎协定后的排放使欧洲热浪更加严重</title><link>https://www.nature.com/articles/d41586-026-03035-w</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-03035-w"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -335,7 +97,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究将人为温室气体排放与极端热浪事件的强度直接归因，量化了《巴黎协定》后排放对欧洲热浪严重程度的加剧效应。这为全球变化生态学中气候变暖与人为干扰的因果归因提供了关键证据，并直接服务于保护科学中极端气候事件风险评估与减缓政策成效评估。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03035-w</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][Nature] 生物多样性保护必须包括语言保护</title><link>https://www.nature.com/articles/d41586-026-03056-5</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03035-w</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][Nature] 生物多样性保护必须包括语言保护</title><link>https://www.nature.com/articles/d41586-026-03056-5</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-03056-5"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -349,7 +111,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该文将语言多样性纳入生物多样性保护框架，提示保护科学需关注文化-生态耦合系统，对保护优先区规划与社区参与式保护实践具有明确的政策与伦理启发。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03056-5</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[5分][Nature] 飞行中蝴蝶翅膀图案产生强烈的视错觉线索</title><link>https://www.nature.com/articles/s41586-026-11062-w</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03056-5</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[5分][Nature] 飞行中蝴蝶翅膀图案产生强烈的视错觉线索</title><link>https://www.nature.com/articles/s41586-026-11062-w</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/s41586-026-11062-w"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -363,7 +125,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究揭示了蝴蝶翅膀图案与飞行行为协同产生视错觉以迷惑捕食者的机制，属于动物行为学与行为生态学中的表型适应和反捕食策略研究。其发现为理解运动动物视觉防御的演化与生态功能提供了新视角，对宏观生态学中物种共存与捕食者-猎物相互作用研究具有明确价值。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/s41586-026-11062-w</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][Nature] 一种衍生干四足动物揭示陆生解剖结构的演化</title><link>https://www.nature.com/articles/s41586-026-11090-6</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/s41586-026-11062-w</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][Nature] 一种衍生干四足动物揭示陆生解剖结构的演化</title><link>https://www.nature.com/articles/s41586-026-11090-6</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/s41586-026-11090-6"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -377,7 +139,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究通过重新评估干四足动物的解剖特征，揭示了陆生肢体适应在过渡性两栖环境中以镶嵌方式演化的模式，为理解宏观演化中关键性状的逐步组装和生态位转变提供了重要案例。其方法强调化石类群在重建演化序列中的关键作用，对生物地理与宏观演化研究具有启发意义。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/s41586-026-11090-6</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[5分][Nature] 全球红树林在开阔海岸的分布受波浪控制</title><link>https://www.nature.com/articles/s41586-026-11089-z</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/s41586-026-11090-6</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[5分][Nature] 全球红树林在开阔海岸的分布受波浪控制</title><link>https://www.nature.com/articles/s41586-026-11089-z</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/s41586-026-11089-z"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -391,7 +153,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究将物理海洋过程（波浪）与红树林大尺度分布格局联系起来，为理解海岸带生态系统的生物地理格局提供了机制性解释。其过程驱动的存在/缺失模型可用于预测气候变化下红树林分布范围的迁移，并为海岸带保护优先区规划提供科学依据。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/s41586-026-11089-z</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[5分][Nature] 超级厄尔尼诺正在“烹煮”珊瑚礁——摇篮曲和益生菌能拯救它们吗？</title><link>https://www.nature.com/articles/d41586-026-02965-9</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/s41586-026-11089-z</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[5分][Nature] 超级厄尔尼诺正在“烹煮”珊瑚礁——摇篮曲和益生菌能拯救它们吗？</title><link>https://www.nature.com/articles/d41586-026-02965-9</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-02965-9"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -405,7 +167,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该报道聚焦全球变化下珊瑚礁生态系统的保护实践，涉及气候变暖引发的严重热胁迫、生态系统弹性与保护干预措施（如声学调控和益生菌），属于全球变化与保护科学领域。其价值在于提示宏观生态学与保护生物学需整合行为生态学（水下声景/生物声学）和微生物生态学手段，以提升珊瑚礁生态系统对极端气候事件的抵抗力与恢复力。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-02965-9</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][Nature] 每日简报：如何从厄尔尼诺现象中拯救珊瑚</title><link>https://www.nature.com/articles/d41586-026-03138-4</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-02965-9</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][Nature] 每日简报：如何从厄尔尼诺现象中拯救珊瑚</title><link>https://www.nature.com/articles/d41586-026-03138-4</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-03138-4"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -419,7 +181,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该报道聚焦于全球变化背景下珊瑚礁生态系统在极端海洋温度事件中的存续与保护实践，直接关联保护科学与生态系统弹性/转折点研究，对理解气候变暖对生物多样性的影响及制定保护优先策略具有明确价值。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03138-4</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][Nature] 谁是最响亮的？裸喉钟雀角逐桂冠</title><link>https://www.nature.com/articles/d41586-026-03038-7</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03138-4</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][Nature] 谁是最响亮的？裸喉钟雀角逐桂冠</title><link>https://www.nature.com/articles/d41586-026-03038-7</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-03038-7"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -433,7 +195,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究揭示了鸟类发声器官形态（嘴裂大小）与鸣声强度之间的表型适应关系，属于行为生态学与生物声学范畴。其发现有助于理解动物声通讯的进化约束与生态功能，并为声学监测中基于鸣声特征识别物种或评估个体适合度提供形态-声学关联依据。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03038-7</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][Nature] 这些视错觉正是蝴蝶如此难以捕捉的原因</title><link>https://www.nature.com/articles/d41586-026-03124-w</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03038-7</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][Nature] 这些视错觉正是蝴蝶如此难以捕捉的原因</title><link>https://www.nature.com/articles/d41586-026-03124-w</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-03124-w"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -447,7 +209,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究从行为生态学角度揭示了蝴蝶翅斑纹作为一种反捕食适应策略的功能：通过干扰捕食者（包括人类观察者）的视觉追踪，提高逃逸成功率。这为理解表型适应与捕食者-猎物协同进化提供了新视角，并可能启发基于视觉机制的物种监测与保护实践。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03124-w</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][Nature] 自然拥有权利——是时候让世界承认它们了</title><link>https://www.nature.com/articles/d41586-026-03145-5</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03124-w</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][Nature] 自然拥有权利——是时候让世界承认它们了</title><link>https://www.nature.com/articles/d41586-026-03145-5</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-03145-5"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -461,7 +223,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该文从保护科学和全球变化治理的宏观视角出发，探讨了赋予自然法律权利这一新兴范式对遏制行星危机的潜在作用。它为保护生物学提供了超越传统政策工具的制度创新思路，有助于思考如何从法律与伦理层面推动生态系统保护和生物多样性治理。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03145-5</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][Nature] 惊人化石揭示恐龙独特的飞行演化路径</title><link>https://www.nature.com/articles/d41586-026-03126-8</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03145-5</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][Nature] 惊人化石揭示恐龙独特的飞行演化路径</title><link>https://www.nature.com/articles/d41586-026-03126-8</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-03126-8"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -475,7 +237,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究通过新化石物种为鸟类飞行起源的宏观演化问题提供了关键证据，支持飞行能力在恐龙—鸟类支系中多次独立演化的假说。其价值在于从生物地理与宏观演化尺度揭示表型创新（羽毛状肢体）与飞行生态位的演化路径，对理解重大演化转变的重复性与环境驱动因素具有启发意义。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03126-8</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 极端高温迫使更多人留在室内，呼吸道感染可能增加</title><link>https://www.science.org/doi/abs/10.1126/science.ael4936?af=R</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03126-8</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 极端高温迫使更多人留在室内，呼吸道感染可能增加</title><link>https://www.science.org/doi/abs/10.1126/science.ael4936?af=R</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.ael4936?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -489,7 +251,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究将极端高温这一全球变化驱动因子与人类呼吸道传染病传播风险联系起来，揭示了气候变暖通过改变人类室内聚集行为而间接影响疾病生态学的路径。对宏观生态学与保护科学而言，它提示气候变化对物种（包括人类）行为、栖息地利用及种间互作（病原传播）的级联效应，值得在野生动物疫病生态与保护实践中类比检验。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.ael4936?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 气候政策忽视了遗留垃圾填埋场带来的风险</title><link>https://www.science.org/doi/abs/10.1126/science.aem1978?af=R</link><description>
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.ael4936?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 气候政策忽视了遗留垃圾填埋场带来的风险</title><link>https://www.science.org/doi/abs/10.1126/science.aem1978?af=R</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.aem1978?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -503,7 +265,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究指出气候政策在评估温室气体排放与长期环境风险时，系统性地忽略了遗留垃圾填埋场的潜在贡献，这对全球变化与保护科学中的政策制定与风险评估具有直接警示价值。它提示宏观生态学与保护实践需要将人为遗留污染源纳入生态系统弹性与气候适应框架，避免政策盲区导致不可逆的生态后果。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aem1978?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 中国垃圾填埋场开采需审慎治理以平衡效益与风险</title><link>https://www.science.org/doi/abs/10.1126/science.ael3115?af=R</link><description>
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aem1978?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 中国垃圾填埋场开采需审慎治理以平衡效益与风险</title><link>https://www.science.org/doi/abs/10.1126/science.ael3115?af=R</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.ael3115?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -517,7 +279,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究聚焦垃圾填埋场开采这一人为干扰活动对生态系统的影响，属于全球变化与保护科学范畴。其核心价值在于揭示治理政策如何平衡资源回收效益与环境污染风险，为宏观生态学中的人为干扰评估、生态系统弹性及保护优先区规划提供了政策与实践层面的启示。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.ael3115?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 气候变化重塑全球汞循环</title><link>https://www.science.org/doi/abs/10.1126/science.aeh7034?af=R</link><description>
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.ael3115?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 气候变化重塑全球汞循环</title><link>https://www.science.org/doi/abs/10.1126/science.aeh7034?af=R</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.aeh7034?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -531,7 +293,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究从全球尺度揭示气候变化对汞生物地球化学循环的驱动机制，有助于理解污染物在生态系统间的迁移与累积规律，为全球变化背景下污染物生态风险评价和保护政策制定提供宏观生态学依据。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aeh7034?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 过去千年古记录揭示东太平洋ENSO近期增强</title><link>https://www.science.org/doi/abs/10.1126/science.ady2660?af=R</link><description>
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aeh7034?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 过去千年古记录揭示东太平洋ENSO近期增强</title><link>https://www.science.org/doi/abs/10.1126/science.ady2660?af=R</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.ady2660?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -545,7 +307,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究利用古气候代用记录重建过去千年东太平洋ENSO变率，揭示近期增强趋势，为理解全球变暖背景下ENSO行为变化提供关键历史基线。对宏观生态学而言，ENSO是驱动海洋与陆地生态系统年际波动、物种分布与群落动态的全球性气候强迫，其长期变率直接影响生物地理格局与生态系统弹性评估。该成果有助于保护科学中预测极端气候事件对物种和生态系统的影响。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.ady2660?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 海洋雪黏度调控微生物降解与海洋碳汇</title><link>https://www.science.org/doi/abs/10.1126/science.adx4170?af=R</link><description>
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.ady2660?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 海洋雪黏度调控微生物降解与海洋碳汇</title><link>https://www.science.org/doi/abs/10.1126/science.adx4170?af=R</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.adx4170?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -559,7 +321,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究揭示了海洋雪黏度这一物理性状如何通过调控微生物降解效率影响海洋碳汇，将颗粒物物理特性与微生物群落功能及全球碳循环联系起来，对理解海洋生态系统碳通量调控机制和全球变化背景下的碳汇预测具有重要价值。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.adx4170?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 瓶颈中的信息：从法属波利尼西亚到拉帕努伊和夏威夷的嵌套奠基者效应</title><link>https://www.science.org/doi/abs/10.1126/science.aec7662?af=R</link><description>
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.adx4170?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 瓶颈中的信息：从法属波利尼西亚到拉帕努伊和夏威夷的嵌套奠基者效应</title><link>https://www.science.org/doi/abs/10.1126/science.aec7662?af=R</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.aec7662?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -573,7 +335,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究通过嵌套奠基者效应揭示了人类跨太平洋扩张中的种群瓶颈与迁徙路径，为理解生物地理学中的隔离分化、历史遗留效应以及种群遗传结构提供了宏观尺度案例。其方法可启发保护生物学中濒危物种的种群恢复与遗传多样性管理策略。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aec7662?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[5分][Nature] 南极冬季海冰出现前所未有的空洞</title><link>https://www.nature.com/articles/d41586-026-03160-6</link><description>
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aec7662?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[5分][Nature] 南极冬季海冰出现前所未有的空洞</title><link>https://www.nature.com/articles/d41586-026-03160-6</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-03160-6"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -587,7 +349,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究揭示了大气河等中尺度气候过程对南极冬季海冰范围与海洋生态系统结构的调控作用，为理解全球变化下极地生态系统的弹性与转折点提供了关键证据。其发现有助于评估海冰退缩对南极生物地理格局、物种分布及保护管理策略的深远影响。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03160-6</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][Nature] 大堡礁在正在发展的超级厄尔尼诺现象中需要特别关注</title><link>https://www.nature.com/articles/d41586-026-03174-0</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03160-6</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][Nature] 大堡礁在正在发展的超级厄尔尼诺现象中需要特别关注</title><link>https://www.nature.com/articles/d41586-026-03174-0</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-03174-0"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -601,7 +363,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该文聚焦全球变化背景下大堡礁这一关键生态系统的保护需求，直接关联气候变暖与人为干扰对生态系统弹性/转折点的影响，属于全球变化与保护科学的核心议题。其价值在于呼吁在超级厄尔尼诺发展期对珊瑚礁生态系统给予特殊监测与保护优先关注，为宏观生态学中的保护优先区规划和生态系统响应研究提供政策与科学启示。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03174-0</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][Nature] 侏罗纪哺乳形动物游泳者与哺乳动物咽部的演化转变</title><link>https://www.nature.com/articles/s41586-026-11107-0</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03174-0</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][Nature] 侏罗纪哺乳形动物游泳者与哺乳动物咽部的演化转变</title><link>https://www.nature.com/articles/s41586-026-11107-0</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/s41586-026-11107-0"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -615,7 +377,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究通过侏罗纪哺乳形动物化石揭示了早期哺乳动物咽部结构与吞咽、吮吸功能的宏观演化转变，为理解哺乳动物关键表型适应（摄食与呼吸解耦）的演化时间与生态背景提供了关键证据。其将形态功能与水生觅食生态位结合的分析框架，对宏观演化与行为生态学中表型适应及生态位分化研究具有直接启发价值。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/s41586-026-11107-0</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[5分][Nature] 澳大利亚当前野火危机与殖民时期土地利用变化相关</title><link>https://www.nature.com/articles/s41586-026-11097-z</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/s41586-026-11107-0</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[5分][Nature] 澳大利亚当前野火危机与殖民时期土地利用变化相关</title><link>https://www.nature.com/articles/s41586-026-11097-z</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/s41586-026-11097-z"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -629,7 +391,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究通过千年古生态记录揭示了历史土地利用与火 regime 的长期遗留效应，为理解生态系统弹性、人为干扰与气候变化的交互作用提供了关键证据。它直接服务于全球变化与保护科学，强调原住民文化用火在降低野火风险中的生态功能，对景观管理、保护优先区规划和生态系统转折点预警具有重要启示。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/s41586-026-11097-z</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[5分][Nature] 英国殖民后澳大利亚丛林大火为何愈演愈烈——原因在此</title><link>https://www.nature.com/articles/d41586-026-03184-y</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/s41586-026-11097-z</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[5分][Nature] 英国殖民后澳大利亚丛林大火为何愈演愈烈——原因在此</title><link>https://www.nature.com/articles/d41586-026-03184-y</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-03184-y"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -643,7 +405,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究从历史生态学与保护科学视角，揭示了殖民时期对原住民火管理制度的压制如何改变景观结构与火 regime，导致易燃森林扩张和灾难性野火加剧。这为理解人类干扰下的生态系统弹性、传统生态知识在火管理中的作用以及全球变化背景下的保护实践提供了关键宏观生态学证据。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03184-y</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][Nature] 追踪古人类迁徙的肠道微生物</title><link>https://www.nature.com/articles/d41586-026-02969-5</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03184-y</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][Nature] 追踪古人类迁徙的肠道微生物</title><link>https://www.nature.com/articles/d41586-026-02969-5</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-02969-5"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -657,7 +419,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究从宿主-微生物群落层面揭示人类迁徙历史与工业化导致的微生物多样性丧失，为宏观生态学中生物地理格局、共生群落构建及保护科学中微生物多样性保护提供了跨学科证据。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-02969-5</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][Nature] 木质“毯子”被部署在北极永久冻土上以减少碳排放</title><link>https://www.nature.com/articles/d41586-026-03045-8</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-02969-5</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][Nature] 木质“毯子”被部署在北极永久冻土上以减少碳排放</title><link>https://www.nature.com/articles/d41586-026-03045-8</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-03045-8"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -671,7 +433,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究关注全球变化背景下永久冻土退化与温室气体排放的减缓实践，属于保护科学与生态系统管理的中宏观尺度应用。其价值在于探索通过工程干预（木质覆盖）提升退化冻土生态系统的稳定性，为气候变暖下的生态系统弹性与碳循环调控提供了可检验的保护策略。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03045-8</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][Nature] 一项窥见未来亚马逊的实验——以影像呈现</title><link>https://www.nature.com/articles/d41586-026-02909-3</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03045-8</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][Nature] 一项窥见未来亚马逊的实验——以影像呈现</title><link>https://www.nature.com/articles/d41586-026-02909-3</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-02909-3"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -685,7 +447,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究聚焦亚马逊森林对大气二氧化碳持续升高的响应，属于全球变化生态学与生态系统弹性/转折点研究的核心议题，对理解热带森林在未来气候情景下的适应与保护具有直接价值。其大规模原位CO2富集实验可为预测群落结构、碳汇功能及生态系统稳定性变化提供关键宏观生态学证据。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-02909-3</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][Nature] 黑猩猩和大猩猩的大脑随年龄增长而抵抗萎缩——与人类大脑不同</title><link>https://www.nature.com/articles/d41586-026-03158-0</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-02909-3</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][Nature] 黑猩猩和大猩猩的大脑随年龄增长而抵抗萎缩——与人类大脑不同</title><link>https://www.nature.com/articles/d41586-026-03158-0</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-03158-0"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -699,7 +461,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究从宏观演化与比较视角揭示了灵长类大脑衰老模式的种间差异，为理解人类长寿与神经退行性变化的演化代价提供了关键线索。其发现将生命周期策略、脑维持机制与物种保护需求联系起来，提示在保护大型猿类时需关注其晚年认知与生态适应能力。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03158-0</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[5分][AAAS: Science: Table of Contents] 扭转自然丧失，须改变其驱动因素</title><link>https://www.science.org/doi/abs/10.1126/science.aen0122?af=R</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03158-0</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[5分][AAAS: Science: Table of Contents] 扭转自然丧失，须改变其驱动因素</title><link>https://www.science.org/doi/abs/10.1126/science.aen0122?af=R</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.aen0122?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -713,7 +475,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该文立足全球变化与保护科学，聚焦自然丧失的根本驱动机制，为保护优先区规划与生态系统弹性研究提供政策导向的宏观视角，对理解人为干扰下的生物多样性危机与保护实践具有直接启发价值。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aen0122?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[5分][AAAS: Science: Table of Contents] “超级”厄尔尼诺现象推动生态系统影响研究</title><link>https://www.science.org/doi/abs/10.1126/science.aen2357?af=R</link><description>
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aen0122?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[5分][AAAS: Science: Table of Contents] “超级”厄尔尼诺现象推动生态系统影响研究</title><link>https://www.science.org/doi/abs/10.1126/science.aen2357?af=R</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.aen2357?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -727,7 +489,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该报道聚焦极端厄尔尼诺事件对生态系统的影响，属于全球变化生态学与保护科学的核心议题，有助于理解气候极端事件如何驱动群落结构、生态系统弹性与转折点变化，并为大尺度生态监测与保护优先区规划提供科学依据。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aen2357?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 优先关注《公海条约》中的新污染物</title><link>https://www.science.org/doi/abs/10.1126/science.aem0511?af=R</link><description>
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aen2357?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 优先关注《公海条约》中的新污染物</title><link>https://www.science.org/doi/abs/10.1126/science.aem0511?af=R</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.aem0511?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -741,7 +503,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该文聚焦《公海条约》（BBNJ协定）框架下新污染物（CECs）的治理优先序，属于全球变化与保护科学中的保护政策与优先区规划议题。其价值在于将污染物监测与风险评估纳入公海生物多样性保护的国际治理机制，为宏观保护规划与跨境监测技术（如eDNA、生物监测）的政策衔接提供明确切入点。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aem0511?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[5分][AAAS: Science: Table of Contents] 中国的授粉政策必须超越管理蜜蜂的视野</title><link>https://www.science.org/doi/abs/10.1126/science.ael5505?af=R</link><description>
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aem0511?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[5分][AAAS: Science: Table of Contents] 中国的授粉政策必须超越管理蜜蜂的视野</title><link>https://www.science.org/doi/abs/10.1126/science.ael5505?af=R</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.ael5505?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -755,7 +517,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该政策评论指出仅依赖管理蜜蜂不足以保障农业授粉安全，强调野生传粉者群落多样性、生态系统服务与保护政策的协同，对全球变化下的传粉者保护科学与农业可持续性政策设计具有直接指导价值。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.ael5505?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 将塑料问题明确纳入《公海条约》的考量</title><link>https://www.science.org/doi/abs/10.1126/science.ael5669?af=R</link><description>
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.ael5505?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 将塑料问题明确纳入《公海条约》的考量</title><link>https://www.science.org/doi/abs/10.1126/science.ael5669?af=R</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.ael5669?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -769,7 +531,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该文聚焦《公海条约》（BBNJ协定）下海洋塑料污染治理的制度设计，属于全球变化与保护科学中的国际保护政策与海洋生态系统管理议题，对保护优先区规划、跨境海洋治理及人为干扰的生态风险评估具有直接政策启示。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.ael5669?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 风使鸟类飞行更省力</title><link>https://www.science.org/doi/abs/10.1126/science.ael9047?af=R</link><description>
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.ael5669?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 风使鸟类飞行更省力</title><link>https://www.science.org/doi/abs/10.1126/science.ael9047?af=R</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.ael9047?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -783,7 +545,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究探讨风场条件如何影响鸟类飞行能量成本，属于动物行为学与移动生态学范畴，对理解鸟类迁徙策略、栖息地选择及气候变化下飞行能量收支具有明确价值。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.ael9047?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[5分][AAAS: Science: Table of Contents] 气流重新定义野外空中运输的成本</title><link>https://www.science.org/doi/abs/10.1126/science.aee6550?af=R</link><description>
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.ael9047?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[5分][AAAS: Science: Table of Contents] 气流重新定义野外空中运输的成本</title><link>https://www.science.org/doi/abs/10.1126/science.aee6550?af=R</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.aee6550?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -797,7 +559,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究从宏观生态与行为生态学视角，揭示大气气流结构如何塑造飞行生物的移动能量成本与运动策略，为理解动物迁徙、觅食移动生态学及表型适应提供机制性框架；同时可为气候变化背景下气流格局改变对飞行物种分布与保护的影响评估提供关键依据。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aee6550?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 深海生命仍未从BP漏油事件中恢复</title><link>https://www.science.org/doi/abs/10.1126/science.aen4284?af=R</link><description>
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aee6550?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 深海生命仍未从BP漏油事件中恢复</title><link>https://www.science.org/doi/abs/10.1126/science.aen4284?af=R</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.aen4284?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -811,7 +573,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究聚焦重大人为干扰（深水地平线漏油）后深海生态系统的长期响应与恢复轨迹，直接关联全球变化与保护科学中的生态系统弹性、转折点及人为干扰效应等核心问题。其价值在于揭示深海群落对大规模扰动的滞后恢复动态，为深海保护优先区规划与长期监测（如eDNA、水下视频）提供宏观生态学依据。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aen4284?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 印度需要一项树木保护计划</title><link>https://www.science.org/doi/abs/10.1126/science.ael9835?af=R</link><description>
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aen4284?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 印度需要一项树木保护计划</title><link>https://www.science.org/doi/abs/10.1126/science.ael9835?af=R</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.ael9835?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -825,7 +587,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该文属于保护科学范畴，聚焦国家尺度的树木保护规划与政策实践，直接呼应保护优先区规划与全球变化下的人为干扰议题。其价值在于提示宏观生态学者将物种分布与多样性数据转化为可操作的国家保护策略，并关注植物多样性保护在政策层面的缺口。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.ael9835?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 下一个冰期已经来临又过去了吗？</title><link>https://www.science.org/doi/abs/10.1126/science.aem3295?af=R</link><description>
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.ael9835?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 下一个冰期已经来临又过去了吗？</title><link>https://www.science.org/doi/abs/10.1126/science.aem3295?af=R</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.aem3295?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -839,7 +601,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究探讨冰期旋回与气候系统转折点问题，直接关联古气候历史遗留效应与全球变化科学，对理解大尺度气候-生态系统响应、预测未来气候临界点及生物地理格局的历史成因具有明确价值。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aem3295?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[3分][AAAS: Science: Table of Contents] 鸟类大脑的认知能力</title><link>https://www.science.org/doi/abs/10.1126/science.aem0341?af=R</link><description>
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aem3295?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[3分][AAAS: Science: Table of Contents] 鸟类大脑的认知能力</title><link>https://www.science.org/doi/abs/10.1126/science.aem0341?af=R</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.aem0341?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -853,7 +615,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 3 / 5&lt;/p&gt;
             &lt;p&gt;该研究聚焦鸟类认知能力的神经与行为基础，属于动物行为学与行为生态学范畴，可为理解认知表型在觅食、群体决策与栖息地选择等宏观行为生态过程中的适应意义提供线索，并启发将认知性状纳入表型适应与保护实践（如圈养繁育、再引入个体行为筛选）的讨论。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aem0341?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 鸟类大脑的超快速决策</title><link>https://www.science.org/doi/abs/10.1126/science.aed6459?af=R</link><description>
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aem0341?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 鸟类大脑的超快速决策</title><link>https://www.science.org/doi/abs/10.1126/science.aed6459?af=R</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.aed6459?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -867,7 +629,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究聚焦鸟类在极短时间内完成决策的神经与行为机制，属于动物行为学与行为生态学中的决策与认知研究范畴，有助于理解个体在觅食、避敌等生态情境下的快速行为权衡及其适应性意义，并为比较不同类群的决策速度与生态位关系提供切入点。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aed6459?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[5分][AAAS: Science: Table of Contents] 保护全球陆生脊椎动物免受未来海平面上升的影响</title><link>https://www.science.org/doi/abs/10.1126/science.aed5772?af=R</link><description>
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aed6459?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[5分][AAAS: Science: Table of Contents] 保护全球陆生脊椎动物免受未来海平面上升的影响</title><link>https://www.science.org/doi/abs/10.1126/science.aed5772?af=R</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.aed5772?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -881,7 +643,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究将海平面上升这一全球变化驱动因子与陆生脊椎动物的分布和存续风险联系起来，属于全球变化与保护科学的核心议题。其价值在于为保护优先区规划和物种风险评估提供了大尺度、前瞻性的空间分析框架，有助于识别未来海平面上升情景下的脆弱物种与关键区域，指导跨区域的保护实践与监测布局。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aed5772?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][Nature] 尼泊尔的灾难是紧迫的警钟</title><link>https://www.nature.com/articles/d41586-026-03314-6</link><description>
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aed5772?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][Nature] 尼泊尔的灾难是紧迫的警钟</title><link>https://www.nature.com/articles/d41586-026-03314-6</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-03314-6"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -895,7 +657,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该文立足全球变化与保护科学，强调气候变化下山地灾害风险的加剧，呼吁科学家开展风险评估与响应，对理解气候变暖与人为干扰下的生态系统弹性、山区保护实践与监测预警具有明确价值。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03314-6</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[5分][Nature] 海量新化石记录挑战地球“五大”大灭绝的既有叙事</title><link>https://www.nature.com/articles/d41586-026-03316-4</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03314-6</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[5分][Nature] 海量新化石记录挑战地球“五大”大灭绝的既有叙事</title><link>https://www.nature.com/articles/d41586-026-03316-4</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-03316-4"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -909,7 +671,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究利用近四百万件化石与人工智能模型重建大尺度灭绝速率与时间格局，直接关涉宏观演化与生物地理中的灭绝动力学问题，挑战了“五大”大灭绝突变式发生的经典叙事。其方法学价值在于展示大数据与机器学习如何提升深时生物多样性曲线的分辨率，为评估灭绝的选择性、速率与生态效应提供新框架，对理解当前全球变化背景下的生物多样性危机具有明确的比较与启示意义。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03316-4</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][Nature] 蝴蝶翅膀图案使运动难以被识别</title><link>https://www.nature.com/articles/d41586-026-03062-7</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03316-4</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][Nature] 蝴蝶翅膀图案使运动难以被识别</title><link>https://www.nature.com/articles/d41586-026-03062-7</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-03062-7"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -923,7 +685,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究从动物行为学与行为生态学角度探讨蝴蝶翅膀色彩图案如何影响运动猎物的可探测性与捕食者视觉识别，涉及表型适应与伪装策略的生态功能，对理解捕食者-猎物相互作用及运动生态学具有明确价值。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03062-7</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][Nature] 保护规划应遵循动物生物钟</title><link>https://www.nature.com/articles/d41586-026-03354-y</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03062-7</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][Nature] 保护规划应遵循动物生物钟</title><link>https://www.nature.com/articles/d41586-026-03354-y</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-03354-y"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -937,7 +699,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该文呼吁将动物的时间节律（如昼夜活动、季节性迁徙与繁殖时序）纳入保护规划，提示保护优先区与监测方案需考虑时间维度而非仅空间维度。对保护科学中的人为干扰（如光污染、气候变暖导致的物候错配）评估具有直接方法学价值。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03354-y</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[5分][Nature] 干旱与疾病触发顶级捕食者之间的新型相互作用</title><link>https://www.nature.com/articles/s41586-026-11194-z</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03354-y</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[5分][Nature] 干旱与疾病触发顶级捕食者之间的新型相互作用</title><link>https://www.nature.com/articles/s41586-026-11194-z</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/s41586-026-11194-z"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -951,7 +713,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究揭示了气候驱动的资源短缺如何重塑顶级捕食者的觅食行为与种间互作，为理解食物网中自上而下的级联效应提供了新证据。其发现强调极端气候事件可通过改变捕食者行为间接影响群落结构与生态系统功能，对全球变化下的群落生态学与保护管理具有重要启示。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/s41586-026-11194-z</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[5分][Nature] 人类活动驱动的亚马逊碳排放因干旱而放大</title><link>https://www.nature.com/articles/s41586-026-11168-1</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/s41586-026-11194-z</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[5分][Nature] 人类活动驱动的亚马逊碳排放因干旱而放大</title><link>https://www.nature.com/articles/s41586-026-11168-1</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/s41586-026-11168-1"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -965,7 +727,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究基于15年大气CO2观测，在生态系统至区域尺度上揭示了亚马逊碳汇减弱及火灾、毁林与干旱胁迫的协同放大效应，直接关联全球变化与保护科学中的生态系统弹性/转折点问题。其长期监测与人为干扰—气候极端事件交互框架，为评估热带森林碳源汇转变及保护优先区规划提供了宏观生态学证据。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/s41586-026-11168-1</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][Nature] 极端风暴期间盐沼对波浪衰减的贡献</title><link>https://www.nature.com/articles/s41586-026-11145-8</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/s41586-026-11168-1</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][Nature] 极端风暴期间盐沼对波浪衰减的贡献</title><link>https://www.nature.com/articles/s41586-026-11145-8</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/s41586-026-11145-8"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -979,7 +741,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究从生态系统尺度量化了盐沼植被在极端风暴条件下的海岸防护功能及其阈值，直接服务于全球变化下海岸生态系统弹性与基于自然的保护实践（如盐沼修复与海岸带管理规划），并揭示了植被受损—功能衰减之间的非线性响应，对保护优先区划定与灾害风险管理具有明确价值。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/s41586-026-11145-8</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][Nature] 洞穴石笋记录过去45万年来全球季风降雨格局</title><link>https://www.nature.com/articles/d41586-026-03285-8</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/s41586-026-11145-8</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][Nature] 洞穴石笋记录过去45万年来全球季风降雨格局</title><link>https://www.nature.com/articles/d41586-026-03285-8</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-03285-8"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -993,7 +755,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究以长尺度古气候代用记录揭示全球季风系统的半球间跷跷板式振荡及其在增暖期的崩溃，为理解大尺度气候-生态系统耦合、历史气候遗留效应对物种分布与群落构建的影响提供了关键宏观气候背景，对预测全球变化下生态系统弹性与转折点具有明确价值。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03285-8</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][Nature] 植物能否抵御海岸风暴？</title><link>https://www.nature.com/articles/d41586-026-03063-6</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03285-8</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][Nature] 植物能否抵御海岸风暴？</title><link>https://www.nature.com/articles/d41586-026-03063-6</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-03063-6"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1007,7 +769,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究将盐沼植被的消浪护岸功能与风暴扰动下的生态系统退化联系起来，直接服务于全球变化与保护科学中的生态系统弹性/转折点议题，并为基于自然的海岸防护（生态工程与保护优先区规划）提供宏观尺度证据。其“渐进性损伤”视角提示需在群落与景观尺度评估植被防护的阈值与恢复力。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03063-6</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][Nature] 全球排放放缓——但世界正冲向2°C升温</title><link>https://www.nature.com/articles/d41586-026-03355-x</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03063-6</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][Nature] 全球排放放缓——但世界正冲向2°C升温</title><link>https://www.nature.com/articles/d41586-026-03355-x</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-03355-x"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1021,7 +783,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该报道聚焦全球气候治理与升温轨迹，直接关联全球变化生态学与保护科学的核心议题——气候变暖对生态系统弹性、物种分布与保护优先区规划的胁迫。其价值在于为宏观生态学者提供最新的排放与升温情景边界，提示需在2°C乃至更高升温路径下评估生态转折点与保护对策的紧迫性。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03355-x</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][Nature] 科学家将一片盐沼放入巨型造波机：他们发现了什么</title><link>https://www.nature.com/articles/d41586-026-03376-6</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03355-x</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][Nature] 科学家将一片盐沼放入巨型造波机：他们发现了什么</title><link>https://www.nature.com/articles/d41586-026-03376-6</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-03376-6"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1035,7 +797,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究在生态系统尺度上揭示了盐沼植被对极端风暴潮的消浪与岸线防护功能，直接服务于全球变化下的海岸带生态修复与基于自然的防灾保护规划。其物理模拟实验思路为量化生态系统弹性与转折点、评估生境结构对灾害缓冲的贡献提供了可借鉴的方法框架。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03376-6</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][Nature] 一首“摇篮曲”能否拯救珊瑚礁免于灭绝？</title><link>https://www.nature.com/articles/d41586-026-03414-3</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03376-6</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][Nature] 一首“摇篮曲”能否拯救珊瑚礁免于灭绝？</title><link>https://www.nature.com/articles/d41586-026-03414-3</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-03414-3"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1049,7 +811,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该报道聚焦珊瑚礁保护实践中的前沿干预手段，包括利用水下声学播放吸引幼体定居与培育耐热“超级珊瑚”，直接关联保护科学与全球变化下生态系统弹性/转折点议题；其声学监测与行为操控思路为生物声学在栖息地修复中的应用提供了明确启发。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03414-3</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][Nature] 电力到来后农村社区睡眠减少</title><link>https://www.nature.com/articles/d41586-026-03318-2</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03414-3</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][Nature] 电力到来后农村社区睡眠减少</title><link>https://www.nature.com/articles/d41586-026-03318-2</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-03318-2"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1063,7 +825,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究从行为生态学视角揭示了人为环境改造（电力与智能手机接入）如何快速重塑人类这一物种的睡眠行为节律，属于人类行为生态学与全球变化/人为干扰交叉议题。其价值在于为理解技术化、城市化等全球变化驱动因子对动物（含人类）行为时间分配与昼夜节律的影响提供了准自然实验范式，可启发宏观生态学中关于人为干扰下行为表型可塑性与适应性响应的研究。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03318-2</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 风力涡轮机每年杀死数量惊人的蝙蝠</title><link>https://www.science.org/doi/abs/10.1126/science.aen6352?af=R</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03318-2</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 风力涡轮机每年杀死数量惊人的蝙蝠</title><link>https://www.science.org/doi/abs/10.1126/science.aen6352?af=R</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.aen6352?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1077,7 +839,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该报道聚焦风能开发对蝙蝠种群的致死影响，属于全球变化与保护科学中人为干扰与种群存续的核心议题，可为评估可再生能源的生态代价、制定风电场的选址与运行调控（如风速阈值停机）保护策略提供宏观尺度依据。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aen6352?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[3分][AAAS: Science: Table of Contents] 永远消失</title><link>https://www.science.org/doi/abs/10.1126/science.aen6334?af=R</link><description>
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aen6352?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[3分][AAAS: Science: Table of Contents] 永远消失</title><link>https://www.science.org/doi/abs/10.1126/science.aen6334?af=R</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.aen6334?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1091,7 +853,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 3 / 5&lt;/p&gt;
             &lt;p&gt;该文标题与栏目信息提示其可能涉及物种灭绝与生物多样性丧失的宏观议题，对保护科学中灭绝速率评估、灭绝债务及保护优先区规划具有潜在参考价值；但摘要仅为卷期页码信息，缺乏实质内容，无法确认其具体研究尺度与方法，故相关性与评分持保守判断。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aen6334?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 对研究文章《草皮藻重新定义温带礁石的化学景观，限制海带森林恢复》的勘误</title><link>https://www.science.org/doi/abs/10.1126/science.aen4323?af=R</link><description>
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aen6334?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 对研究文章《草皮藻重新定义温带礁石的化学景观，限制海带森林恢复》的勘误</title><link>https://www.science.org/doi/abs/10.1126/science.aen4323?af=R</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.aen4323?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1105,7 +867,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该勘误所涉原始研究聚焦草皮藻通过改变化学景观抑制海带森林恢复，属于群落构建、生态系统弹性与转折点以及保护恢复实践的宏观生态学核心议题，对理解温带礁石生态系统的退化与恢复机制具有明确价值。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aen4323?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 鸟类与人类的声音如何比较？</title><link>https://www.science.org/doi/abs/10.1126/science.aem2333?af=R</link><description>
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aen4323?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 鸟类与人类的声音如何比较？</title><link>https://www.science.org/doi/abs/10.1126/science.aem2333?af=R</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.aem2333?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1119,7 +881,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究从生物声学与比较行为学角度探讨鸟类鸣声与人类语音的可比性，涉及发声通讯的演化与表型适应问题，属于动物行为学与行为生态学范畴。其价值在于为跨物种声学通讯比较提供概念框架，并可为基于声学监测的鸟类群落与种群研究提供理论基础。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aem2333?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[5分][AAAS: Science: Table of Contents] 淡水生物多样性所受威胁的全球地理格局</title><link>https://www.science.org/doi/abs/10.1126/science.aeb7910?af=R</link><description>
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aem2333?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[5分][AAAS: Science: Table of Contents] 淡水生物多样性所受威胁的全球地理格局</title><link>https://www.science.org/doi/abs/10.1126/science.aeb7910?af=R</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.aeb7910?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1133,7 +895,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究在宏观尺度上刻画了淡水生物多样性所受威胁的全球空间格局，直接服务于全球变化与保护科学领域，可为保护优先区规划、跨区域威胁因子识别与淡水生态系统监测提供关键地理依据，对理解人为干扰下淡水群落与生态系统的脆弱性具有明确价值。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aeb7910?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[5分][AAAS: Science: Table of Contents] 生物多样性热点地区鸟类区系的基因组侵蚀敲响保护警钟</title><link>https://www.science.org/doi/abs/10.1126/science.aef3063?af=R</link><description>
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aeb7910?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[5分][AAAS: Science: Table of Contents] 生物多样性热点地区鸟类区系的基因组侵蚀敲响保护警钟</title><link>https://www.science.org/doi/abs/10.1126/science.aef3063?af=R</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.aef3063?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1147,7 +909,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究从宏观保护基因组学视角揭示生物多样性热点区域鸟类种群的遗传多样性丧失（基因组侵蚀）格局，直接服务于保护优先区规划与种群监测实践。其价值在于将基因组侵蚀作为种群健康与灭绝风险的宏观预警指标，为全球变化背景下鸟类群落保护提供可操作的评估框架。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aef3063?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 快速纵向飞行导致时间偏移与太阳罗盘误差</title><link>https://www.science.org/doi/abs/10.1126/science.adz2542?af=R</link><description>
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aef3063?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 快速纵向飞行导致时间偏移与太阳罗盘误差</title><link>https://www.science.org/doi/abs/10.1126/science.adz2542?af=R</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.adz2542?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1161,7 +923,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究聚焦动物长距离快速移动中的导航机制与时间补偿，直接关联动物行为学中的移动生态学与定向导航问题；其揭示的太阳罗盘误差对理解迁徙物种跨纬度/时区飞行时的表型适应与行为可塑性具有明确价值，并可为气候变化下迁徙物候与路径调整的保护研究提供行为学依据。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.adz2542?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[5分][AAAS: Science: Table of Contents] 鸟类鸣唱中普遍存在的模式与人类语言和歌曲相似，且不依赖于发声学习</title><link>https://www.science.org/doi/abs/10.1126/science.adr9983?af=R</link><description>
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.adz2542?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[5分][AAAS: Science: Table of Contents] 鸟类鸣唱中普遍存在的模式与人类语言和歌曲相似，且不依赖于发声学习</title><link>https://www.science.org/doi/abs/10.1126/science.adr9983?af=R</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.adr9983?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1175,7 +937,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究在生物声学与行为生态学尺度上揭示了鸟类鸣唱与人类语言/歌曲共享的普遍结构规律，并证明这些规律独立于发声学习这一复杂认知能力，为理解动物通讯信号的宏观演化趋同与表型适应提供了新视角。其跨类群比较框架可启发群落声景监测与声学多样性指标的构建，并推动对鸣声结构演化约束与生态功能的进一步检验。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.adr9983?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][Nature] 仓鸮的祖先完成了一次跨大西洋飞行</title><link>https://www.nature.com/articles/d41586-026-03385-5</link><description>
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.adr9983?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][Nature] 仓鸮的祖先完成了一次跨大西洋飞行</title><link>https://www.nature.com/articles/d41586-026-03385-5</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-03385-5"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1189,7 +951,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究以基因组证据重建鸮类跨大西洋的扩散路线与拓殖历史，属于生物地理学与宏观演化范畴，为理解大尺度物种分布格局形成、历史扩散事件及区系联系提供了直接案例，对岛屿与大陆间动物区系交流及扩散机制研究具有明确参考价值。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03385-5</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[3分][Nature] 系于岩石：岩石与水源可得性如何塑造早期沙漠occupation</title><link>https://www.nature.com/articles/d41586-026-03263-0</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03385-5</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[3分][Nature] 系于岩石：岩石与水源可得性如何塑造早期沙漠occupation</title><link>https://www.nature.com/articles/d41586-026-03263-0</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-03263-0"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1203,7 +965,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 3 / 5&lt;/p&gt;
             &lt;p&gt;该研究从宏观景观尺度揭示，早期人类对极端干旱环境的occupation并非由单一水源驱动，而是受岩石原料可得性与水文条件共同塑造，为理解人类栖息地选择、景观连通性与干旱区保护/考古生态学提供了明确的空间格局视角。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03263-0</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[3分][Nature] 这片阿拉伯沙漠曾是葱郁天堂，为何古人类却避而远之？</title><link>https://www.nature.com/articles/d41586-026-03484-3</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03263-0</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[3分][Nature] 这片阿拉伯沙漠曾是葱郁天堂，为何古人类却避而远之？</title><link>https://www.nature.com/articles/d41586-026-03484-3</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-03484-3"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1217,7 +979,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 3 / 5&lt;/p&gt;
             &lt;p&gt;该报道涉及古人类对干旱区环境的栖息地选择与定居决策，属于行为生态学与生物地理/历史遗留效应交叉的宏观问题，提示水资源之外的环境因子（如资源可预测性、生态承载力）对种群分布格局的约束，对理解大尺度人类—环境耦合与保护规划具有参考价值。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03484-3</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[3分][AAAS: Science: Table of Contents] 当土壤不受扰动时</title><link>https://www.science.org/doi/abs/10.1126/science.ael2422?af=R</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03484-3</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[3分][AAAS: Science: Table of Contents] 当土壤不受扰动时</title><link>https://www.science.org/doi/abs/10.1126/science.ael2422?af=R</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.ael2422?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1231,7 +993,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 3 / 5&lt;/p&gt;
             &lt;p&gt;该文聚焦土壤不受扰动状态下的生态效应，属于生态系统与保护科学范畴，可为理解人为干扰（如耕作、压实）对土壤群落与生态系统功能的影响提供宏观视角，并启发土壤保护与生态恢复实践。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.ael2422?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 中国包容生物多样性的城市规划</title><link>https://www.science.org/doi/abs/10.1126/science.aem0567?af=R</link><description>
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.ael2422?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 中国包容生物多样性的城市规划</title><link>https://www.science.org/doi/abs/10.1126/science.aem0567?af=R</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.aem0567?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1245,7 +1007,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究将生物多样性纳入城市规划决策，直接服务于全球变化与保护科学中的保护优先区规划与城市生态学问题，为在人类主导景观中协调城市发展与物种栖息地保护提供了政策与实践框架，对宏观保护规划具有明确参考价值。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aem0567?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 从源头启动冰冻圈洪水预警</title><link>https://www.science.org/doi/abs/10.1126/science.ael8929?af=R</link><description>
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aem0567?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 从源头启动冰冻圈洪水预警</title><link>https://www.science.org/doi/abs/10.1126/science.ael8929?af=R</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.ael8929?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1259,7 +1021,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该文聚焦冰冻圈洪水预警的源头监测与早期预警体系建设，属于全球变化与保护科学中的灾害风险监测与适应实践范畴，对气候变化背景下高山/极地地区生态系统弹性与人类社区保护规划具有明确的政策与实践价值。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.ael8929?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 中国农田需要清洁的排水</title><link>https://www.science.org/doi/abs/10.1126/science.aem2340?af=R</link><description>
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.ael8929?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 中国农田需要清洁的排水</title><link>https://www.science.org/doi/abs/10.1126/science.aem2340?af=R</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.aem2340?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1273,7 +1035,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该文关注农业面源污染与农田排水水质管理，属于全球变化与保护科学中的生态系统健康与人为干扰议题，可为农业景观中的水体保护、生态沟渠与湿地缓冲带规划提供政策与科学依据。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aem2340?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[5分][AAAS: Science: Table of Contents] 人类世的回响：噪声污染作为全球性威胁</title><link>https://www.science.org/doi/abs/10.1126/science.adu9593?af=R</link><description>
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aem2340?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[5分][AAAS: Science: Table of Contents] 人类世的回响：噪声污染作为全球性威胁</title><link>https://www.science.org/doi/abs/10.1126/science.adu9593?af=R</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.adu9593?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1287,7 +1049,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究将人为噪声提升为全球性环境压力因子，直接关联全球变化与保护科学领域，对理解人为干扰如何跨尺度影响动物声学通讯、栖息地选择与群落结构具有明确价值，并为声学监测与保护优先区规划提供宏观视角。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.adu9593?af=R</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][Nature] 病毒—细菌协同感染加速藻华消亡</title><link>https://www.nature.com/articles/s41586-026-11243-7</link><description>
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.adu9593?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][Nature] 病毒—细菌协同感染加速藻华消亡</title><link>https://www.nature.com/articles/s41586-026-11243-7</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/s41586-026-11243-7"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1301,7 +1063,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究揭示了病毒—细菌协同这一此前未被认识的死亡因子在藻华消亡中的作用，直接关联浮游植物群落动态与海洋碳循环，为理解群落构建中的物种互作（跨界协同）及生态系统弹性/转折点提供了新机制；同时提示微生物互作可作为监测与预测藻华消亡及碳输出的重要切入点，对全球变化下的海洋生态保护与碳汇管理具有明确价值。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/s41586-026-11243-7</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][Nature] 攻击经验与观察驱动共享的行为和神经变化</title><link>https://www.nature.com/articles/s41586-026-11217-9</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/s41586-026-11243-7</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][Nature] 攻击经验与观察驱动共享的行为和神经变化</title><link>https://www.nature.com/articles/s41586-026-11217-9</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/s41586-026-11217-9"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1315,7 +1077,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究从个体行为可塑性与经验依赖的表型适应角度，揭示了社会经验（亲身经历与观察学习）如何塑造攻击行为控制策略，属于动物行为学与行为生态学的核心议题。其“经验—神经激活模式—行为策略”的框架可启发对动物社会学习、行为综合征及群体内行为传递的宏观行为生态学研究，并为理解人为干扰下动物攻击性与社会行为的适应性调整提供机制线索。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/s41586-026-11217-9</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][Nature] 生态与社会线索协同编排果蝇的求偶行为</title><link>https://www.nature.com/articles/s41586-026-11209-9</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/s41586-026-11217-9</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][Nature] 生态与社会线索协同编排果蝇的求偶行为</title><link>https://www.nature.com/articles/s41586-026-11209-9</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/s41586-026-11209-9"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1329,7 +1091,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究揭示了多模态环境线索（食物气味等生态线索与同种个体运动等社会线索）如何整合驱动群体求偶同步，为动物行为生态学中群体决策、求偶信号整合与繁殖时机选择提供了机制性范例；其“生态-社会线索协同”框架可推广至其他类群的集群繁殖与栖息地选择研究，并提示环境变化如何通过改变线索可用性影响繁殖同步与种群动态。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/s41586-026-11209-9</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][Nature] 当人类消失时，生物多样性出现出人意料的转折</title><link>https://www.nature.com/articles/d41586-026-03505-1</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/s41586-026-11209-9</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][Nature] 当人类消失时，生物多样性出现出人意料的转折</title><link>https://www.nature.com/articles/d41586-026-03505-1</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-03505-1"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1343,7 +1105,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究将人口减少这一人口—社会过程纳入保护科学的核心议题，提示宏观生态学需重新审视人类活动强度与生物多样性之间的非线性关系。它为研究人为干扰梯度下的群落重组、生态系统弹性与保护优先区规划提供了新的问题框架，尤其适用于探讨弃耕、乡村收缩与再野化背景下的生物多样性响应。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03505-1</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][Nature] 神秘的炭疽疫情在非洲杀死河马——引发对人类传播的担忧</title><link>https://www.nature.com/articles/d41586-026-03580-4</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03505-1</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][Nature] 神秘的炭疽疫情在非洲杀死河马——引发对人类传播的担忧</title><link>https://www.nature.com/articles/d41586-026-03580-4</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-03580-4"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1357,7 +1119,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该报道聚焦野生动物种群大规模死亡事件及其人畜共患病溢出风险，属于保护科学与疾病生态学交叉议题，对理解病原体在野生动物种群与人类之间的传播动态、以及疫情暴发下的保护管理决策具有直接价值，并提示宏观生态监测在早期预警中的作用。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03580-4</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][Nature] 果实、果蝇与性致勃发：食物气味如何触发性唤起</title><link>https://www.nature.com/articles/d41586-026-03271-0</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03580-4</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][Nature] 果实、果蝇与性致勃发：食物气味如何触发性唤起</title><link>https://www.nature.com/articles/d41586-026-03271-0</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-03271-0"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1371,7 +1133,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究揭示了环境嗅觉线索（食物气味）如何调控动物的求偶行为启动，属于动物行为学与行为生态学中环境线索—行为决策耦合的核心议题，对理解栖息地资源可利用性如何塑造繁殖行为与种群动态具有明确价值，也为宏观尺度上资源分布变化影响动物繁殖适合度的推断提供了机制性行为学依据。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03271-0</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][Nature] 生态系统依赖于人：不要抛弃他们</title><link>https://www.nature.com/articles/d41586-026-03544-8</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03271-0</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][Nature] 生态系统依赖于人：不要抛弃他们</title><link>https://www.nature.com/articles/d41586-026-03544-8</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-03544-8"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1385,7 +1147,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该文挑战了“人类活动必然损害自然”的保护生物学传统假设，提示在保护规划与生态系统管理中应重新审视人类作为生物多样性塑造者的角色，对保护实践、人地耦合系统与生态系统弹性研究具有明确的观念启发价值。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03544-8</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[4分][Nature] 蜘蛛的睡眠阶段</title><link>https://www.nature.com/articles/d41586-026-03487-0</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03544-8</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][Nature] 蜘蛛的睡眠阶段</title><link>https://www.nature.com/articles/d41586-026-03487-0</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-03487-0"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1399,7 +1161,7 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究以蜘蛛为对象探讨无脊椎动物睡眠行为与脊椎动物的可比性，直接切入动物行为学中睡眠演化的宏观比较问题，为跨类群行为同源性与睡眠功能演化提供了新视角，并提示无脊椎类群可作为研究行为演化保守性的重要模型体系。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03487-0</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item><item><title>[3分][Nature] 简报对话：认识那些用侧翻翻滚逃离危险的蛇类</title><link>https://www.nature.com/articles/d41586-026-03632-9</link><description>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03487-0</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[3分][Nature] 简报对话：认识那些用侧翻翻滚逃离危险的蛇类</title><link>https://www.nature.com/articles/d41586-026-03632-9</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-03632-9"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1413,4 +1175,284 @@
             &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 3 / 5&lt;/p&gt;
             &lt;p&gt;该报道聚焦蛇类的侧翻翻滚（cartwheel）防御行为，属于动物行为学与行为生态学中的反捕食策略与表型适应范畴，可为理解捕食—被捕食互动中的行为多样性及比较行为学研究提供线索；但作为新闻简报，缺乏系统的宏观生态学或保护实践数据支撑，科学深度有限。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03632-9</guid><pubDate>Mon, 09 Nov 2026 05:14:02 +0000</pubDate></item></channel></rss>
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03632-9</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 甲虫的热红外授粉</title><link>https://www.science.org/doi/abs/10.1126/science.aen0889?af=R</link><description>
+            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
+            &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.aen0889?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
+            &lt;p&gt;Thermal infrared pollination by beetles&lt;/p&gt;
+            &lt;h3&gt;【中文标题】&lt;/h3&gt;
+            &lt;p&gt;甲虫的热红外授粉&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;&lt;p&gt;Science, Volume 394, Issue 6825, Page 730-731, November 2026.&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
+            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
+            &lt;p&gt;该研究揭示甲虫利用热红外信号完成授粉，属于动物行为学与感觉生态学交叉的表型适应研究，拓展了传粉者-植物互作中非视觉通讯机制的认识。对理解群落中物种互作网络构建、传粉功能性状演化及气候变化下传粉服务保护具有明确价值。&lt;/p&gt;
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aen0889?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[5分][AAAS: Science: Table of Contents] 跨界鱼类的协同保护</title><link>https://www.science.org/doi/abs/10.1126/science.aem4589?af=R</link><description>
+            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
+            &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.aem4589?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
+            &lt;p&gt;Coordinate protection for transboundary fishes&lt;/p&gt;
+            &lt;h3&gt;【中文标题】&lt;/h3&gt;
+            &lt;p&gt;跨界鱼类的协同保护&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;&lt;p&gt;Science, Volume 394, Issue 6825, Page 728-729, November 2026.&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
+            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
+            &lt;p&gt;该文聚焦跨界鱼类保护实践，强调跨国协同治理与保护优先区规划，直接呼应保护科学中跨境种群管理与政策协调的核心议题，对宏观保护规划与渔业资源可持续管理具有明确政策与实践价值。&lt;/p&gt;
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aem4589?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 美国湿地保护地图低估湿地范围</title><link>https://www.science.org/doi/abs/10.1126/science.aem4493?af=R</link><description>
+            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
+            &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.aem4493?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
+            &lt;p&gt;US water protection maps undercount wetlands&lt;/p&gt;
+            &lt;h3&gt;【中文标题】&lt;/h3&gt;
+            &lt;p&gt;美国湿地保护地图低估湿地范围&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;&lt;p&gt;Science, Volume 394, Issue 6825, Page 729-729, November 2026.&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
+            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
+            &lt;p&gt;该研究指出美国现有湿地保护地图存在系统性低估，直接关系到保护优先区规划与湿地生态系统监测的准确性，对全球变化下的保护科学具有警示价值，并提示宏观生态学中空间数据偏差可能影响保护决策。&lt;/p&gt;
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aem4493?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[5分][AAAS: Science: Table of Contents] 人类对大象社会生活的毁灭性影响</title><link>https://www.science.org/doi/abs/10.1126/science.aem6415?af=R</link><description>
+            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
+            &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.aem6415?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
+            &lt;p&gt;The devastating impact of humans on elephants’ social life&lt;/p&gt;
+            &lt;h3&gt;【中文标题】&lt;/h3&gt;
+            &lt;p&gt;人类对大象社会生活的毁灭性影响&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;&lt;p&gt;Science, Volume 394, Issue 6825, Page 716-717, November 2026.&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
+            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
+            &lt;p&gt;该研究聚焦人类活动（如偷猎、栖息地破碎化与干扰）如何重塑大象的社会结构、群体决策与行为生态，直接关联动物行为学与保护科学的核心议题。其价值在于揭示人为干扰对长寿命、高社会性物种社会网络的宏观后果，为种群存续与保护干预提供行为生态学依据。&lt;/p&gt;
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aem6415?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 氧气揭示地球碳汇的奥秘</title><link>https://www.science.org/doi/abs/10.1126/science.aem7174?af=R</link><description>
+            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
+            &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.aem7174?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
+            &lt;p&gt;Oxygen tells the tale of Earth’s carbon sinks&lt;/p&gt;
+            &lt;h3&gt;【中文标题】&lt;/h3&gt;
+            &lt;p&gt;氧气揭示地球碳汇的奥秘&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;&lt;p&gt;Science, Volume 394, Issue 6825, Page 719-720, November 2026.&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
+            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
+            &lt;p&gt;该研究通过大气氧观测来约束全球碳汇的收支与分布，直接服务于全球变化生态学中碳循环—气候反馈这一核心问题；其思路可启发将大气氧信号与生态系统碳通量、碳汇稳定性及转折点监测相结合，为宏观尺度碳汇评估与气候政策提供独立约束。&lt;/p&gt;
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aem7174?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[5分][AAAS: Science: Table of Contents] 气候干旱加剧全球河流硝酸盐负荷，超出人类输入的影响</title><link>https://www.science.org/doi/abs/10.1126/science.aeg2366?af=R</link><description>
+            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
+            &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.aeg2366?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
+            &lt;p&gt;Climate aridity amplifies global riverine nitrate beyond human inputs&lt;/p&gt;
+            &lt;h3&gt;【中文标题】&lt;/h3&gt;
+            &lt;p&gt;气候干旱加剧全球河流硝酸盐负荷，超出人类输入的影响&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;&lt;p&gt;Science, Volume 394, Issue 6825, Page 773-778, November 2026.&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
+            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
+            &lt;p&gt;该研究在流域与全球尺度上揭示了气候干旱对河流硝酸盐输出的放大效应，将气候变化与生物地球化学循环、水质退化联系起来，对全球变化生态学与流域保护管理具有直接价值。其宏观空间格局分析与人类活动驱动因子的对比框架，可为生态系统弹性与保护优先区规划研究提供借鉴。&lt;/p&gt;
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aeg2366?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][AAAS: Science: Table of Contents] 距今12.5万年前阿拉伯古湖岸的毒化狩猎武器、巨型动物与植物利用</title><link>https://www.science.org/doi/abs/10.1126/science.aef9342?af=R</link><description>
+            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
+            &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.aef9342?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
+            &lt;p&gt;Poisoned hunting weapons, megafauna, and plant use at a 125,000-year-old Arabian paleolakeshore&lt;/p&gt;
+            &lt;h3&gt;【中文标题】&lt;/h3&gt;
+            &lt;p&gt;距今12.5万年前阿拉伯古湖岸的毒化狩猎武器、巨型动物与植物利用&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;&lt;p&gt;Science, Volume 394, Issue 6825, Page 746-751, November 2026.&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
+            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
+            &lt;p&gt;该研究通过考古遗存揭示古人类对巨型动物的狩猎策略与植物资源利用，为理解大型动物群落动态、人类-环境相互作用及史前生态系统中的捕食者-猎物关系提供了关键证据，对宏观生态学中的食物网结构与人类生态位演化具有明确价值。&lt;/p&gt;
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aef9342?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[5分][AAAS: Science: Table of Contents] 亚洲象种群统计周转率上升与隔离加剧先于社会结构碎片化</title><link>https://www.science.org/doi/abs/10.1126/science.aef6714?af=R</link><description>
+            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
+            &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.aef6714?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
+            &lt;p&gt;Increased demographic turnover and isolation precede social fragmentation in Asian elephants&lt;/p&gt;
+            &lt;h3&gt;【中文标题】&lt;/h3&gt;
+            &lt;p&gt;亚洲象种群统计周转率上升与隔离加剧先于社会结构碎片化&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;&lt;p&gt;Science, Volume 394, Issue 6825, Page 792-798, November 2026.&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
+            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
+            &lt;p&gt;该研究从种群统计与保护生物学视角揭示亚洲象社会结构碎片化的前兆过程，直接关联种群动态、社会行为与保护实践，为理解大型长寿命动物的社会解体机制及制定保护优先策略提供了宏观尺度证据。&lt;/p&gt;
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aef6714?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[5分][AAAS: Science: Table of Contents] 大气氧揭示自1990年以来海洋碳汇增强与陆地净碳汇停滞</title><link>https://www.science.org/doi/abs/10.1126/science.aed9544?af=R</link><description>
+            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; AAAS: Science: Table of Contents&lt;/p&gt;
+            &lt;p&gt;&lt;a href="https://www.science.org/doi/abs/10.1126/science.aed9544?af=R"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
+            &lt;p&gt;Atmospheric O2 reveals a strengthening ocean carbon sink and a stagnant net land sink since 1990&lt;/p&gt;
+            &lt;h3&gt;【中文标题】&lt;/h3&gt;
+            &lt;p&gt;大气氧揭示自1990年以来海洋碳汇增强与陆地净碳汇停滞&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;&lt;p&gt;Science, Volume 394, Issue 6825, Page 799-803, November 2026.&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
+            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
+            &lt;p&gt;该研究利用大气O2浓度变化这一全球尺度地球化学示踪指标，分离并量化了海洋与陆地碳汇的长期趋势，直接回应全球变化生态学中碳循环源汇格局演变这一核心问题。其方法为宏观生态学与生物地球化学交叉研究提供了独立于CO2观测的约束手段，对评估陆地生态系统碳汇饱和风险与气候政策制定具有明确价值。&lt;/p&gt;
+            </description><guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/science.aed9544?af=R</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[5分][Nature] 严重干旱与气候变暖加剧仙人掌物种的灭绝风险</title><link>https://www.nature.com/articles/s41586-026-11265-1</link><description>
+            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
+            &lt;p&gt;&lt;a href="https://www.nature.com/articles/s41586-026-11265-1"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
+            &lt;p&gt;Severe drought and warming increase the extinction risk of cacti&lt;/p&gt;
+            &lt;h3&gt;【中文标题】&lt;/h3&gt;
+            &lt;p&gt;严重干旱与气候变暖加剧仙人掌物种的灭绝风险&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;&lt;p&gt;Nature, Published online: 11 November 2026; doi:10.1038/s41586-026-11265-1 Severe drought and warming will substantially increase the loss of suitable climatic area for cactus species.&lt;/p&gt;&lt;h3&gt;【中文摘要翻译】&lt;/h3&gt;&lt;p&gt;《自然》在线发表，2026年11月11日；doi:10.1038/s41586-026-11265-1。严重干旱与气候变暖将大幅增加仙人掌物种适宜气候区的丧失。&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
+            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
+            &lt;p&gt;该研究立足全球变化与保护科学尺度，量化了干旱与增温对仙人掌类群适宜气候区的压缩效应，直接服务于濒危类群灭绝风险评估与保护优先区规划。其宏观气候生态位建模思路可推广至其他干旱区特有类群的脆弱性评估，并为气候情景下的保护决策提供定量依据。&lt;/p&gt;
+            </description><guid isPermaLink="false">https://www.nature.com/articles/s41586-026-11265-1</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[5分][Nature] 人类土地利用驱动陆生野生动物体内微塑料丰度</title><link>https://www.nature.com/articles/s41586-026-11285-x</link><description>
+            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
+            &lt;p&gt;&lt;a href="https://www.nature.com/articles/s41586-026-11285-x"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
+            &lt;p&gt;Human land use drives microplastic abundance in terrestrial wildlife&lt;/p&gt;
+            &lt;h3&gt;【中文标题】&lt;/h3&gt;
+            &lt;p&gt;人类土地利用驱动陆生野生动物体内微塑料丰度&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;&lt;p&gt;Nature, Published online: 11 November 2026; doi:10.1038/s41586-026-11285-x Microplastic burdens in Brazilian tapirs and anteaters rise with human-modified land use and proximity to development, however animals in remote habitats also carry microplastics, showing that landscape change and individual space use jointly shape wildlife exposure.&lt;/p&gt;&lt;h3&gt;【中文摘要翻译】&lt;/h3&gt;&lt;p&gt;《自然》在线发表，2026年11月11日；doi:10.1038/s41586-026-11285-x。巴西貘和食蚁兽体内的微塑料负荷随人类改造土地利用程度及与开发区域邻近度的增加而上升，然而偏远生境中的动物同样携带微塑料，表明景观变化与个体空间利用共同塑造了野生动物的暴露风险。&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
+            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
+            &lt;p&gt;该研究将微塑料污染这一全球变化胁迫因子与景观尺度的人类土地利用格局、动物个体空间利用行为相耦合，揭示了人为干扰梯度下野生动物暴露风险的空间异质性，为保护科学中人类活动影响评估与监测优先区规划提供了宏观尺度证据；同时提示偏远生境亦非免于污染，拓展了全球变化生态学中污染物扩散与野生动物健康的研究框架。&lt;/p&gt;
+            </description><guid isPermaLink="false">https://www.nature.com/articles/s41586-026-11285-x</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][Nature] 生物技术创新是限制气候变化的机遇</title><link>https://www.nature.com/articles/d41586-026-03621-y</link><description>
+            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
+            &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-03621-y"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
+            &lt;p&gt;Biotech innovations are an opportunity to limit climate change&lt;/p&gt;
+            &lt;h3&gt;【中文标题】&lt;/h3&gt;
+            &lt;p&gt;生物技术创新是限制气候变化的机遇&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;&lt;p&gt;Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03621-y Agricultural biotechnology once found itself in opposition to environmental science. Now it could reduce the impact of food systems on global warming and biodiversity loss.&lt;/p&gt;&lt;h3&gt;【中文摘要翻译】&lt;/h3&gt;&lt;p&gt;《自然》在线发表，2026年11月11日；doi:10.1038/d41586-026-03621-y。农业生物技术曾一度与环境科学相对立。如今，它有望减少粮食系统对全球变暖和生物多样性丧失的影响。&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
+            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
+            &lt;p&gt;该文将农业生物技术置于全球变化与保护科学的框架下，探讨粮食系统对气候变暖与生物多样性丧失的缓解路径，为宏观生态学中人类主导生态系统的可持续管理与保护实践提供了政策与跨学科视角。&lt;/p&gt;
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03621-y</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[5分][Nature] 气候变暖背景下干旱严重威胁仙人掌类植物</title><link>https://www.nature.com/articles/d41586-026-03496-z</link><description>
+            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
+            &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-03496-z"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
+            &lt;p&gt;Cacti are severely threatened by drought in a warming world&lt;/p&gt;
+            &lt;h3&gt;【中文标题】&lt;/h3&gt;
+            &lt;p&gt;气候变暖背景下干旱严重威胁仙人掌类植物&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;&lt;p&gt;Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03496-z Forecasts of the effects that climate change will have on biodiversity typically rely on long-term climate averages while excluding extreme events. Projections that include severe drought predict that a majority of the 993 cactus species assessed will see large losses of suitable climatic area: more than 25% of species could lose at least 80% of it by 2100.&lt;/p&gt;&lt;h3&gt;【中文摘要翻译】&lt;/h3&gt;&lt;p&gt;《自然》在线发表，2026年11月11日；doi:10.1038/d41586-026-03496-z。关于气候变化对生物多样性影响的预测通常依赖长期气候平均值，而忽略极端事件。纳入严重干旱的预测模型显示，在所评估的993种仙人掌中，大多数物种的适宜气候区将大幅缩减：到2100年，超过25%的物种可能丧失至少80%的适宜气候区。&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
+            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
+            &lt;p&gt;该研究将极端干旱事件而非仅气候均值纳入物种分布预测，揭示了极端气候对干旱区特有植物类群的严重威胁，为全球变化生物学中“极端事件—生物多样性”耦合机制提供了关键证据。其评估框架可直接支撑保护优先区规划与濒危物种红色名录的气候风险评估，并提示宏观生态学预测模型应系统整合极端事件维度。&lt;/p&gt;
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03496-z</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][Nature] 微塑料改变了大太平洋垃圾带附近海水的颜色</title><link>https://www.nature.com/articles/d41586-026-03637-4</link><description>
+            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
+            &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-03637-4"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
+            &lt;p&gt;Microplastics change the colour of the sea near the Great Pacific Garbage Patch&lt;/p&gt;
+            &lt;h3&gt;【中文标题】&lt;/h3&gt;
+            &lt;p&gt;微塑料改变了大太平洋垃圾带附近海水的颜色&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;&lt;p&gt;Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03637-4 The waters around the zone of floating debris appear greener and bluer on account of high levels of tiny bits of plastic.&lt;/p&gt;&lt;h3&gt;【中文摘要翻译】&lt;/h3&gt;&lt;p&gt;《自然》在线发表，2026年11月11日；doi:10.1038/d41586-026-03637-4。由于微小塑料碎片含量很高，漂浮垃圾带周边区域的水体呈现出更绿、更蓝的色调。&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
+            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
+            &lt;p&gt;该研究将海洋塑料污染这一全球变化压力与遥感可观测的生态系统表观属性（水体颜色）联系起来，提示微塑料可能通过改变光学环境进而影响浮游植物群落与初级生产过程。对宏观生态学而言，它为在大尺度上利用卫星水色监测人为干扰的生态效应、识别生态系统转折点提供了新思路，也支持海洋保护优先区规划与污染监测技术发展。&lt;/p&gt;
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03637-4</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][Nature] 即便是巴西偏远地区的大食蚁兽，血液中也含有微塑料</title><link>https://www.nature.com/articles/d41586-026-03660-5</link><description>
+            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
+            &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-03660-5"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
+            &lt;p&gt;Even giant anteaters in remote Brazil have microplastics in their blood&lt;/p&gt;
+            &lt;h3&gt;【中文标题】&lt;/h3&gt;
+            &lt;p&gt;即便是巴西偏远地区的大食蚁兽，血液中也含有微塑料&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;&lt;p&gt;Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03660-5 Mapping the movements of wildlife across the Amazon and other regions to their exposure to human activities can inform protection initiatives.&lt;/p&gt;&lt;h3&gt;【中文摘要翻译】&lt;/h3&gt;&lt;p&gt;《自然》在线发表，2026年11月11日；doi:10.1038/d41586-026-03660-5。通过绘制野生动物在亚马逊及其他地区的活动轨迹，并将其与人类活动的暴露情况相对应，可以为保护行动提供信息。&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
+            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
+            &lt;p&gt;该研究将野生动物空间移动生态学与人类活动暴露（微塑料污染）联系起来，属于全球变化与保护科学范畴，可为污染暴露风险评估与保护优先区规划提供宏观尺度证据；其“移动轨迹—人为压力叠加”的分析框架对宏观生态学中的人为干扰效应研究具有方法学借鉴价值。&lt;/p&gt;
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03660-5</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[5分][Nature] 把握全球野生动物贸易的规模</title><link>https://www.nature.com/articles/d41586-026-03591-1</link><description>
+            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
+            &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-03591-1"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
+            &lt;p&gt;Getting a grasp on the global wildlife trade&lt;/p&gt;
+            &lt;h3&gt;【中文标题】&lt;/h3&gt;
+            &lt;p&gt;把握全球野生动物贸易的规模&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;&lt;p&gt;Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03591-1 A study reports that about 107,000 species are traded worldwide, legally or illegally — more than double a previous estimate.&lt;/p&gt;&lt;h3&gt;【中文摘要翻译】&lt;/h3&gt;&lt;p&gt;《自然》在线发表，2026年11月11日；doi:10.1038/d41586-026-03591-1 一项研究报道，全球约有107,000个物种被合法或非法贸易——这一数字是此前估计的两倍多。&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
+            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
+            &lt;p&gt;该研究在全球尺度上量化了野生动物贸易的物种规模，为保护科学提供了关键基线数据，直接支撑贸易驱动下的物种受威胁评估与保护优先区规划。其将贸易网络与物种多样性格局关联的视角，有助于揭示全球变化背景下人为干扰对生物多样性的宏观影响，并为监测与执法政策提供科学依据。&lt;/p&gt;
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03591-1</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[5分][Nature] 对仙人掌而言过于干旱：极端干旱可能将标志性物种推向灭绝</title><link>https://www.nature.com/articles/d41586-026-03671-2</link><description>
+            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
+            &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-03671-2"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
+            &lt;p&gt;Too dry for cacti: extreme droughts could push iconic species to extinction&lt;/p&gt;
+            &lt;h3&gt;【中文标题】&lt;/h3&gt;
+            &lt;p&gt;对仙人掌而言过于干旱：极端干旱可能将标志性物种推向灭绝&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;&lt;p&gt;Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03671-2 Analysis reveals these plants face severe habitat loss across the Americas — plus, researchers test a new way to diagnose obesity.&lt;/p&gt;&lt;h3&gt;【中文摘要翻译】&lt;/h3&gt;&lt;p&gt;《自然》在线发表，2026年11月11日；doi:10.1038/d41586-026-03671-2。分析揭示这些植物在美洲各地面临严重的栖息地丧失——此外，研究人员测试了一种诊断肥胖的新方法。&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
+            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
+            &lt;p&gt;该研究聚焦极端干旱驱动下标志性植物类群在美洲大尺度上的栖息地丧失与灭绝风险，直接关联全球变化与保护科学中的气候极端事件生态效应、物种分布收缩与保护优先区规划问题。其价值在于将干旱胁迫与宏观分布格局及灭绝风险评估相衔接，为干旱区生物区系对气候变化的脆弱性评估和监测保护实践提供依据。&lt;/p&gt;
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03671-2</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][Nature] 响尾蛇也有个性——且对毒液产生有影响</title><link>https://www.nature.com/articles/d41586-026-03536-8</link><description>
+            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
+            &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-03536-8"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
+            &lt;p&gt;Rattlesnakes have personalities too — to venomous effect&lt;/p&gt;
+            &lt;h3&gt;【中文标题】&lt;/h3&gt;
+            &lt;p&gt;响尾蛇也有个性——且对毒液产生有影响&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;&lt;p&gt;Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03536-8 A snake’s defensiveness might affect how much venom it produces in a laboratory test.&lt;/p&gt;&lt;h3&gt;【中文摘要翻译】&lt;/h3&gt;&lt;p&gt;《自然》在线发表，2026年11月11日；doi:10.1038/d41586-026-03536-8。一条蛇的防御性可能影响其在实验室测试中产生的毒液量。&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
+            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
+            &lt;p&gt;该研究将动物个性（行为综合征）与防御性毒液投入联系起来，属于动物行为学与行为生态学中的表型适应问题，提示个体行为差异可影响生态互作与防御成本。对宏观生态学的启发在于：个体行为变异可能是种群与群落层面互作格局的重要底层机制，并可为保护实践中基于行为表型的监测与管理提供依据。&lt;/p&gt;
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03536-8</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][Nature] 破纪录的埃博拉疫情：手机数据重建病毒传播的最初数周</title><link>https://www.nature.com/articles/d41586-026-03666-z</link><description>
+            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
+            &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-03666-z"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
+            &lt;p&gt;Record-breaking Ebola outbreak: phone data reconstruct first weeks of spread&lt;/p&gt;
+            &lt;h3&gt;【中文标题】&lt;/h3&gt;
+            &lt;p&gt;破纪录的埃博拉疫情：手机数据重建病毒传播的最初数周&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;&lt;p&gt;Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03666-z The Bundibugyo virus strain was circulating for weeks before its detection in May, but was missed owing to surveillance failures, testing gaps and funding cuts, researchers say.&lt;/p&gt;&lt;h3&gt;【中文摘要翻译】&lt;/h3&gt;&lt;p&gt;《自然》在线发表，2026年11月12日；doi:10.1038/d41586-026-03666-z。研究人员表示，本迪布焦型埃博拉病毒株在5月被检测到之前已传播数周，但由于监测失灵、检测缺口和经费削减而未被发现。&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
+            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
+            &lt;p&gt;该研究展示了利用手机移动数据这一宏观尺度的监测技术重建疫情早期空间传播动态，对保护科学与全球变化下的疾病生态学具有明确价值：它揭示了监测系统失效如何延误人畜共患病暴发的发现，并为基于移动性数据的早期预警与保护性干预规划提供了方法学范例。&lt;/p&gt;
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03666-z</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item><item><title>[4分][Nature] 谁需要性？附近没有配偶时海带进行无性繁殖</title><link>https://www.nature.com/articles/d41586-026-03665-0</link><description>
+            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Nature&lt;/p&gt;
+            &lt;p&gt;&lt;a href="https://www.nature.com/articles/d41586-026-03665-0"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
+            &lt;p&gt;Who needs sex? Kelp reproduce asexually when no mate is nearby&lt;/p&gt;
+            &lt;h3&gt;【中文标题】&lt;/h3&gt;
+            &lt;p&gt;谁需要性？附近没有配偶时海带进行无性繁殖&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;&lt;p&gt;Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03665-0 Insights into the reproductive modes of brown algae could help in the fight to protect them in warming climate.&lt;/p&gt;&lt;h3&gt;【中文摘要翻译】&lt;/h3&gt;&lt;p&gt;《自然》在线发表，2026年11月12日；doi:10.1038/d41586-026-03665-0。对褐藻繁殖方式的认识可能有助于在气候变暖背景下保护它们。&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【生态/进化/环境借鉴价值与启发】&lt;/h3&gt;
+            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
+            &lt;p&gt;该研究揭示褐藻在缺乏配偶时的繁殖方式转换，属于表型可塑性与生活史适应范畴，对理解种群在环境变化下的维持机制具有价值；同时直接关联气候变暖下的保护实践，可为海藻林生态系统保护与恢复策略提供依据。&lt;/p&gt;
+            </description><guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03665-0</guid><pubDate>Mon, 16 Nov 2026 05:25:01 +0000</pubDate></item></channel></rss>
